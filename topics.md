@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
 - [api](#api)
@@ -22,6 +23,7 @@
 - [data-analysis](#data-analysis)
 - [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
+- [deep-learning](#deep-learning)
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -51,6 +53,7 @@
 - [json](#json)
 - [kubernetes](#kubernetes)
 - [linux](#linux)
+- [lua](#lua)
 - [mac](#mac)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -58,6 +61,7 @@
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
+- [neovim](#neovim)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nodejs](#nodejs)
@@ -86,6 +90,7 @@
 - [terminal](#terminal)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [vim](#vim)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -93,6 +98,10 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+
+## ai 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## algorithm 
 
@@ -113,6 +122,7 @@
 
 ## automation 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
 ## awesome 
@@ -199,6 +209,10 @@
 
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 
+## deep-learning 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
 ## devops 
 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -272,6 +286,7 @@
 
 ## github 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [tw93/cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) - 🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -279,6 +294,7 @@
 
 ## github-api 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 
 ## go 
@@ -335,6 +351,7 @@
 
 ## javascript 
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -367,9 +384,14 @@
 
 ## linux 
 
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. 可能是翻斗花园最好用的 neovim 配置[^1]。
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## lua 
+
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. 可能是翻斗花园最好用的 neovim 配置[^1]。
 
 ## mac 
 
@@ -412,6 +434,10 @@
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格网易云音乐播放器pc客户端
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+## neovim 
+
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. 可能是翻斗花园最好用的 neovim 配置[^1]。
 
 ## nextjs 
 
@@ -456,6 +482,7 @@
 
 ## others 
 
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
 - [sisterAn/blog](https://github.com/sisterAn/blog) - 瓶博：每日更新，前端前进
@@ -550,6 +577,7 @@
 
 ## pytorch 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
 ## react 
@@ -655,6 +683,10 @@
 - [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
+## vim 
+
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. 可能是翻斗花园最好用的 neovim 配置[^1]。
+
 ## vue 
 
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
@@ -674,6 +706,7 @@
 
 ## web 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 
 ## webapp 
