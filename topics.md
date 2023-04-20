@@ -13,6 +13,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [blockchain](#blockchain)
+- [bootstrap](#bootstrap)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -54,6 +55,7 @@
 - [js](#js)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [library](#library)
 - [linux](#linux)
 - [lua](#lua)
 - [mac](#mac)
@@ -154,6 +156,10 @@
 ## blockchain 
 
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
+
+## bootstrap 
+
+- [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 
 ## chatgpt 
 
@@ -370,6 +376,7 @@
 
 ## javascript 
 
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
@@ -405,6 +412,10 @@
 ## kubernetes 
 
 - [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+
+## library 
+
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 
 ## linux 
 
@@ -616,6 +627,9 @@
 
 ## react 
 
+- [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [SevenOutman/aplayer-react](https://github.com/SevenOutman/aplayer-react) - The missing APlayer for your React applications
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
@@ -641,6 +655,7 @@
 
 ## reactjs 
 
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
@@ -707,6 +722,8 @@
 
 ## typescript 
 
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
