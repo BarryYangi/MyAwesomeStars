@@ -48,6 +48,7 @@
 
 ## CSS 
 
+- [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
 - [BarryYangi/MemosGallery](https://github.com/BarryYangi/MemosGallery) - A static page rendered with the Memos API.
 - [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
@@ -247,6 +248,9 @@
 
 ## TypeScript 
 
+- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [SevenOutman/aplayer-react](https://github.com/SevenOutman/aplayer-react) - The missing APlayer for your React applications
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
