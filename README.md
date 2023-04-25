@@ -200,6 +200,7 @@
 
 ## Python 
 
+- [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord 等平台
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -255,6 +256,7 @@
 
 ## TypeScript 
 
+- [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
 - [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Writing Platform - Write, Share and Inspire.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
