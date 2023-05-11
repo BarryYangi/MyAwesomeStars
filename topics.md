@@ -35,6 +35,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [electron](#electron)
+- [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
 - [firebase](#firebase)
@@ -83,6 +84,7 @@
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
+- [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [programming](#programming)
@@ -216,6 +218,7 @@
 
 ## cli 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -300,6 +303,10 @@
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## eslint 
+
+- [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
 
 ## ethereum 
 
@@ -575,6 +582,7 @@
 
 ## npm 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
@@ -595,6 +603,7 @@
 
 ## others 
 
+- [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [timdream/wordcloud](https://github.com/timdream/wordcloud) - HTML5 Word Cloud
 - [btk/memo](https://github.com/btk/memo) - Smart browser/desktop note taking app using GitHub Gists.
@@ -694,6 +703,10 @@
 - [FrankFuckPPT-s-Frans/Philosophy-Quotations](https://github.com/FrankFuckPPT-s-Frans/Philosophy-Quotations) - Here are the philosophical quotations of Frank_FuckPPT, a network expressive IT lecturer
 - [liungkejin/Bash-Games](https://github.com/liungkejin/Bash-Games) - LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
 
+## package-manager 
+
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+
 ## penetration-testing 
 
 - [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
@@ -708,6 +721,7 @@
 
 ## pwa 
 
+- [niwla23/template_react_pwa](https://github.com/niwla23/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## python 
@@ -728,6 +742,9 @@
 
 ## react 
 
+- [srobbin01/daisyui-admin-dashboard-template](https://github.com/srobbin01/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
+- [niwla23/template_react_pwa](https://github.com/niwla23/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
+- [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [Flower-F/revitesse-lite](https://github.com/Flower-F/revitesse-lite) - Vite + React Starter Template
 - [Hacker-C/reactease](https://github.com/Hacker-C/reactease) - React + Unocss template starter
@@ -847,6 +864,7 @@
 
 ## typescript 
 
+- [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
