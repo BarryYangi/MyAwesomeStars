@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
@@ -119,6 +120,10 @@
 - [website](#website)
 - [windows](#windows)
 
+## 3d 
+
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
+
 ## ai 
 
 - [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
@@ -176,6 +181,7 @@
 
 ## blockchain 
 
+- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
 
 ## bootstrap 
@@ -237,6 +243,7 @@
 
 ## css 
 
+- [azouaoui-med/css-pro-layout](https://github.com/azouaoui-med/css-pro-layout) - CSS library for building responsive and customizable layouts
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -310,6 +317,7 @@
 
 ## ethereum 
 
+- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
 
 ## express 
@@ -400,6 +408,7 @@
 
 ## hacktoberfest 
 
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - A stylish yet powerful GitHub client
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
@@ -516,7 +525,7 @@
 
 ## markdown 
 
-- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Writing Platform - Write, Share and Inspire. Now in beta.
+- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown (beta) - Free and Open Source Writing Platform - Write, Share and Inspire. Now in beta.
 - [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -582,12 +591,15 @@
 
 ## npm 
 
+- [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - React Pro Sidebar provides a set of components for creating high level and customizable side navigation
+- [azouaoui-med/css-pro-layout](https://github.com/azouaoui-med/css-pro-layout) - CSS library for building responsive and customizable layouts
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 ## open-source 
 
+- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [LunarFang416/url-animations](https://github.com/LunarFang416/url-animations) - 
@@ -742,6 +754,10 @@
 
 ## react 
 
+- [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - React Pro Sidebar provides a set of components for creating high level and customizable side navigation
+- [codebucks27/react-sidebar](https://github.com/codebucks27/react-sidebar) - Create awesome sidebar for your portfolio or any projects, It is build using ReactJs and styled-components. React router is already configured, Also it has page transition effect using framer-motion.
+- [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu) - :hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [srobbin01/daisyui-admin-dashboard-template](https://github.com/srobbin01/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
 - [niwla23/template_react_pwa](https://github.com/niwla23/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
 - [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
@@ -785,6 +801,8 @@
 
 ## reactjs 
 
+- [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - React Pro Sidebar provides a set of components for creating high level and customizable side navigation
+- [codebucks27/react-sidebar](https://github.com/codebucks27/react-sidebar) - Create awesome sidebar for your portfolio or any projects, It is build using ReactJs and styled-components. React router is already configured, Also it has page transition effect using framer-motion.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
@@ -831,6 +849,7 @@
 
 ## solidity 
 
+- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
 ## svelte 
