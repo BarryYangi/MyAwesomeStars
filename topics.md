@@ -615,6 +615,8 @@
 
 ## others 
 
+- [CaliCastle/shining-button-demo](https://github.com/CaliCastle/shining-button-demo) - 
+- [cdfmlr/muvtuber](https://github.com/cdfmlr/muvtuber) - Makes your AI vtuber
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [timdream/wordcloud](https://github.com/timdream/wordcloud) - HTML5 Word Cloud
