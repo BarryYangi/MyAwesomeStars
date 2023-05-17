@@ -98,6 +98,7 @@
 
 ## HTML 
 
+- [hakimel/zoom.js](https://github.com/hakimel/zoom.js) - zoom in on any element in the DOM
 - [MY1L/Ctrl](https://github.com/MY1L/Ctrl) - 綿飴原创字体。MY1L original fonts.
 - [cdfmlr/muvtuber](https://github.com/cdfmlr/muvtuber) - Makes your AI vtuber
 - [azouaoui-med/css-pro-layout](https://github.com/azouaoui-med/css-pro-layout) - CSS library for building responsive and customizable layouts
