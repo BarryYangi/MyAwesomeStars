@@ -282,6 +282,7 @@
 
 ## data-visualization 
 
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 
@@ -477,6 +478,7 @@
 
 ## javascript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Tokinx/lately](https://github.com/Tokinx/lately) - Native JavaScript, only 800Byte but simple and easy to use Timeago plugin
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -664,6 +666,7 @@
 
 ## others 
 
+- [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -834,6 +837,8 @@
 
 ## react 
 
+- [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
@@ -893,6 +898,7 @@
 
 ## reactjs 
 
+- [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [yomorun/react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - &lt;CursorChat /&gt; React Component helps bring Figma's Cursor Chat to your web applications in less than 3 minutes, making real-time collaboration anywhere.
@@ -991,6 +997,7 @@
 
 ## typescript 
 
+- [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [lgf196/JoL-player](https://github.com/lgf196/JoL-player) - simple and beautiful, powerful react player
 - [AlandSleman/t3-twitter-clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with T3 Stack + NextAuth + Supabase + Prisma
