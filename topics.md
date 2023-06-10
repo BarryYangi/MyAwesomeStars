@@ -252,6 +252,7 @@
 
 ## css 
 
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [azouaoui-med/css-pro-layout](https://github.com/azouaoui-med/css-pro-layout) - CSS library for building responsive and customizable layouts
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -411,6 +412,7 @@
 
 ## golang 
 
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ 动态生成你的 GitHub 统计卡片！实现均衡负载，高并发，缓存， 服务端渲染等功能，支持暗黑模式，API 调用，更多等你探索！⚡ Dynamically generate your github stat cards! Achieve balanced load, high concurrency, efficient caching, server-side rendering, etc.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
 
@@ -668,6 +670,7 @@
 
 ## others 
 
+- [fisand/uno-shadcn-ui](https://github.com/fisand/uno-shadcn-ui) - 
 - [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
@@ -806,6 +809,7 @@
 
 ## php 
 
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ 动态生成你的 GitHub 统计卡片！实现均衡负载，高并发，缓存， 服务端渲染等功能，支持暗黑模式，API 调用，更多等你探索！⚡ Dynamically generate your github stat cards! Achieve balanced load, high concurrency, efficient caching, server-side rendering, etc.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 
 ## postgresql 
@@ -1039,6 +1043,7 @@
 
 ## vue 
 
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ 动态生成你的 GitHub 统计卡片！实现均衡负载，高并发，缓存， 服务端渲染等功能，支持暗黑模式，API 调用，更多等你探索！⚡ Dynamically generate your github stat cards! Achieve balanced load, high concurrency, efficient caching, server-side rendering, etc.
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Popular, beautiful and fast UnoCSS component library.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
