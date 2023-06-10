@@ -243,6 +243,7 @@
 
 ## PHP 
 
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ 动态生成你的 GitHub 统计卡片！实现均衡负载，高并发，缓存， 服务端渲染等功能，支持暗黑模式，API 调用，更多等你探索！⚡ Dynamically generate your github stat cards! Achieve balanced load, high concurrency, efficient caching, server-side rendering, etc.
 - [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
 
 ## Python 
@@ -317,6 +318,8 @@
 
 ## TypeScript 
 
+- [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
+- [fisand/uno-shadcn-ui](https://github.com/fisand/uno-shadcn-ui) - 
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
