@@ -124,6 +124,7 @@
 
 ## Java 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [wf2311/wakatime-sync](https://github.com/wf2311/wakatime-sync) - wakatime 数据同步展示工具
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
@@ -318,6 +319,7 @@
 
 ## TypeScript 
 
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [fisand/uno-shadcn-ui](https://github.com/fisand/uno-shadcn-ui) - 
