@@ -195,6 +195,7 @@
 
 ## blockchain 
 
+- [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
 
@@ -346,6 +347,7 @@
 
 ## ethereum 
 
+- [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
@@ -588,7 +590,7 @@
 ## markdown 
 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown (beta) - Free and Open Source Writing Platform - Write, Share and Inspire. Now in beta.
+- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Writing Platform. Your private and public diary.
 - [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -693,6 +695,8 @@
 
 ## others 
 
+- [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - 支持中文手写效果和多画布能力的 Excalidraw。Support Chinese hand draw font and multi canvas based on Excalidraw.
+- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
@@ -737,7 +741,7 @@
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
 - [bryant-video/neovim-tutorial](https://github.com/bryant-video/neovim-tutorial) - 
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
-- [fslongjin/This-repo-has-1404-stars](https://github.com/fslongjin/This-repo-has-1404-stars) - 这个仓库有1404个star，不信你试试
+- [fslongjin/This-repo-has-1405-stars](https://github.com/fslongjin/This-repo-has-1405-stars) - 这个仓库有1405个star，不信你试试
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 - [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
@@ -1001,6 +1005,7 @@
 
 ## solidity 
 
+- [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [apachecn/home](https://github.com/apachecn/home) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
