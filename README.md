@@ -105,6 +105,7 @@
 
 ## HTML 
 
+- [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
 - [Tokinx/lately](https://github.com/Tokinx/lately) - Native JavaScript, only 800Byte but simple and easy to use Timeago plugin
 - [hakimel/zoom.js](https://github.com/hakimel/zoom.js) - zoom in on any element in the DOM
 - [MY1L/Ctrl](https://github.com/MY1L/Ctrl) - 綿飴原创字体。MY1L original fonts.
@@ -258,7 +259,7 @@
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
-- [fslongjin/This-repo-has-1404-stars](https://github.com/fslongjin/This-repo-has-1404-stars) - 这个仓库有1404个star，不信你试试
+- [fslongjin/This-repo-has-1405-stars](https://github.com/fslongjin/This-repo-has-1405-stars) - 这个仓库有1405个star，不信你试试
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
@@ -327,6 +328,8 @@
 
 ## TypeScript 
 
+- [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn) - 支持中文手写效果和多画布能力的 Excalidraw。Support Chinese hand draw font and multi canvas based on Excalidraw.
+- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -390,7 +393,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
-- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown (beta) - Free and Open Source Writing Platform - Write, Share and Inspire. Now in beta.
+- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Writing Platform. Your private and public diary.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
