@@ -94,6 +94,7 @@
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [pwa](#pwa)
@@ -154,6 +155,7 @@
 
 ## api 
 
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -590,7 +592,7 @@
 ## markdown 
 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Writing Platform. Your private and public diary.
+- [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes.
 - [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -846,6 +848,10 @@
 
 - [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
+
+## pixel-art 
+
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 
 ## postgresql 
 
