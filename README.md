@@ -13,6 +13,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -88,6 +89,10 @@
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
 - [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
 
+## GLSL 
+
+- [sxyazi/dotfiles](https://github.com/sxyazi/dotfiles) - Some of the dotfiles I can't do without.
+
 ## Go 
 
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
@@ -140,6 +145,8 @@
 
 ## JavaScript 
 
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [spinningarrow/zoom-vanilla.js](https://github.com/spinningarrow/zoom-vanilla.js) - Medium's image zoom in vanilla JS (no jQuery).
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
@@ -273,7 +280,7 @@
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
-- [fslongjin/This-repo-has-1408-stars](https://github.com/fslongjin/This-repo-has-1408-stars) - 这个仓库有1408个star，不信你试试
+- [fslongjin/This-repo-has-1410-stars](https://github.com/fslongjin/This-repo-has-1410-stars) - 这个仓库有1410个star，不信你试试
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
@@ -337,14 +344,17 @@
 
 ## Swift 
 
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iOS to search photos.
 - [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
 
 ## TypeScript 
 
-- [CaliCastle/cali-fm](https://github.com/CaliCastle/cali-fm) - 
+- [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue port of Radix UI Primitives. Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [CaliCastle/cali-fm](https://github.com/CaliCastle/cali-fm) - One-click deploy your podcast website via RSS
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
@@ -469,6 +479,8 @@
 
 ## Vue 
 
+- [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
+- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [CatsJuice/dockbar](https://github.com/CatsJuice/dockbar) - A macOS-like dock component made with WebComponents
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
