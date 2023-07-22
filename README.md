@@ -78,7 +78,7 @@
 
 ## Dart 
 
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 
 ## Dockerfile 
 
@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [zema1/watchvuln](https://github.com/zema1/watchvuln) - 一个高价值漏洞采集与推送服务 | collect valueable vulnerability and push it
 - [go-musicfox/go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
@@ -170,7 +171,6 @@
 - [btk/memo](https://github.com/btk/memo) - Smart browser/desktop note taking app using GitHub Gists.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
-- [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
@@ -222,6 +222,7 @@
 
 ## Others 
 
+- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 - [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -280,7 +281,7 @@
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
-- [fslongjin/This-repo-has-1411-stars](https://github.com/fslongjin/This-repo-has-1411-stars) - 这个仓库有1411个star，不信你试试
+- [fslongjin/This-repo-has-1412-stars](https://github.com/fslongjin/This-repo-has-1412-stars) - 这个仓库有1412个star，不信你试试
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
@@ -309,6 +310,7 @@
 
 ## Ruby 
 
+- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [kkuchta/css-only-chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend
 
@@ -351,6 +353,7 @@
 
 ## TypeScript 
 
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue port of Radix UI Primitives. Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -360,7 +363,7 @@
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
-- [aaamoon/react1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器
+- [aaamoon/react1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器(支持 React、Vue3)
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [mogland/core](https://github.com/mogland/core) - 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
@@ -484,6 +487,7 @@
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [CatsJuice/dockbar](https://github.com/CatsJuice/dockbar) - A macOS-like dock component made with WebComponents
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
+- [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
