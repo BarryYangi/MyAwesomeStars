@@ -109,6 +109,7 @@
 
 ## HTML 
 
+- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
 - [Tokinx/lately](https://github.com/Tokinx/lately) - Native JavaScript, only 800Byte but simple and easy to use Timeago plugin
@@ -222,6 +223,7 @@
 
 ## Others 
 
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 - [yukaiji/buildVpn](https://github.com/yukaiji/buildVpn) - 图文教程搭建一个vpn翻墙
@@ -281,7 +283,7 @@
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
-- [fslongjin/This-repo-has-1412-stars](https://github.com/fslongjin/This-repo-has-1412-stars) - 这个仓库有1412个star，不信你试试
+- [fslongjin/This-repo-has-1414-stars](https://github.com/fslongjin/This-repo-has-1414-stars) - 这个仓库有1414个star，不信你试试
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
@@ -318,7 +320,7 @@
 
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p、上海腾讯云内网上传免流+大幅提速。
 
 ## SCSS 
@@ -353,6 +355,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue port of Radix UI Primitives. Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
@@ -482,6 +485,7 @@
 
 ## Vue 
 
+- [CatsJuice/svg-drawing](https://github.com/CatsJuice/svg-drawing) - A canvas for easy sketching and replay, exportable in SVG format.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
