@@ -396,6 +396,7 @@
 
 ## emoji 
 
+- [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [emaction/emaction.frontend](https://github.com/emaction/emaction.frontend) - A web component that provides github styled emoji reaction for blogs.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [MY1L/Ctrl](https://github.com/MY1L/Ctrl) - 綿飴原创字体。MY1L original fonts.
@@ -804,10 +805,12 @@
 
 ## opengl 
 
-- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上  |   Yet another Bilibili client
+- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita 和 Nintendo Switch上  |   Yet another Bilibili client
 
 ## others 
 
+- [Tikolu/emojimix](https://github.com/Tikolu/emojimix) - 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 📝 The editor framework for the web.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) - A React Hook for playing sound effects
