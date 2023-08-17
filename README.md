@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [shiyunjin/lan-expose](https://github.com/shiyunjin/lan-expose) - 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口
 - [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
@@ -372,6 +373,8 @@
 
 ## TypeScript 
 
+- [hyoban/obsidian-memos-plugin](https://github.com/hyoban/obsidian-memos-plugin) - 
+- [ocavue/prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - 
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 📝 The editor framework for the web.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
