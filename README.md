@@ -117,6 +117,7 @@
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
+- [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [Tokinx/lately](https://github.com/Tokinx/lately) - Native JavaScript, only 800Byte but simple and easy to use Timeago plugin
 - [hakimel/zoom.js](https://github.com/hakimel/zoom.js) - zoom in on any element in the DOM
 - [MY1L/Ctrl](https://github.com/MY1L/Ctrl) - 綿飴原创字体。MY1L original fonts.
@@ -250,7 +251,7 @@
 - [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 - [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
-- [DukeLuo/awesome-awesome-prompts](https://github.com/DukeLuo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
+- [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
 - [sisterAn/blog](https://github.com/sisterAn/blog) - 瓶博：每日更新，前端前进
 - [cuiliang/Quicker](https://github.com/cuiliang/Quicker) - Quicker软件反馈repo
@@ -376,7 +377,7 @@
 - [hyoban/obsidian-memos-plugin](https://github.com/hyoban/obsidian-memos-plugin) - 
 - [ocavue/prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - 
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
-- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 📝 The editor framework for the web.
+- [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🍬 The infra for building collaborative editors
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
@@ -417,7 +418,6 @@
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn) - 
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
-- [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
