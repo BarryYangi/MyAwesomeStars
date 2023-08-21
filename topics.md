@@ -14,6 +14,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -41,6 +42,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [elixir](#elixir)
 - [emoji](#emoji)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
@@ -124,6 +126,7 @@
 - [solidity](#solidity)
 - [spring](#spring)
 - [sql](#sql)
+- [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -149,7 +152,7 @@
 ## ai 
 
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款ChatGPT的畅聊、增强、数据安全插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异、数据安全等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁、安全。
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
@@ -168,6 +171,7 @@
 
 ## analytics 
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 
 ## api 
@@ -194,6 +198,7 @@
 
 ## awesome 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
@@ -204,6 +209,7 @@
 
 ## awesome-list 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
@@ -213,6 +219,10 @@
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+
+## bash 
+
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 
 ## bitcoin 
 
@@ -241,7 +251,7 @@
 ## chatgpt 
 
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款ChatGPT的畅聊、增强、数据安全插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异、数据安全等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁、安全。
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [ahmetbersoz/chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -377,6 +387,7 @@
 
 ## documentation 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 
 ## education 
@@ -393,6 +404,10 @@
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## elixir 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## emoji 
 
@@ -667,6 +682,7 @@
 
 ## linux 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. 可能是翻斗花园最好用的 neovim 配置[^1]。
@@ -685,6 +701,7 @@
 
 ## macos 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [taylorcoffelt/macos-docker](https://github.com/taylorcoffelt/macos-docker) - Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -999,6 +1016,7 @@
 
 ## postgresql 
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [AlandSleman/t3-twitter-clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with T3 Stack + NextAuth + Supabase + Prisma
@@ -1156,6 +1174,7 @@
 
 ## self-hosted 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -1198,6 +1217,10 @@
 ## sql 
 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+
+## statistics 
+
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## svelte 
 
@@ -1338,11 +1361,13 @@
 
 ## website 
 
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [CaliCastle/cali-fm](https://github.com/CaliCastle/cali-fm) - One-click deploy your podcast website via RSS
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
 ## windows 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [FluentHub/FluentHub](https://github.com/FluentHub/FluentHub) - The stylish yet powerful GitHub client for Windows.
