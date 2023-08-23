@@ -230,6 +230,7 @@
 
 ## blockchain 
 
+- [itheima1/BlockChain](https://github.com/itheima1/BlockChain) - 黑马程序员 120天全栈区块链开发 开源教程
 - [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
 - [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
@@ -307,6 +308,7 @@
 
 ## cryptocurrency 
 
+- [itheima1/BlockChain](https://github.com/itheima1/BlockChain) - 黑马程序员 120天全栈区块链开发 开源教程
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## csharp 
