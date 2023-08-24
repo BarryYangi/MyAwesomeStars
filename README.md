@@ -140,7 +140,6 @@
 - [upupming/frontend-learning-map](https://github.com/upupming/frontend-learning-map) - 前端学习路线（TODOs）
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 - [BarryYangi/BarryYangi.github.io](https://github.com/BarryYangi/BarryYangi.github.io) - Blog
-- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
 ## Haskell 
@@ -285,6 +284,7 @@
 - [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) - 
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
 - [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [zhouie/markdown-emoji](https://github.com/zhouie/markdown-emoji) - Markdown语法支持添加 emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情
 - [GitSquared/horizon-edex-theme](https://github.com/GitSquared/horizon-edex-theme) - A modern, beautiful and colorful theme for eDEX-UI.
 
