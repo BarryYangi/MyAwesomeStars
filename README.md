@@ -44,7 +44,6 @@
 
 ## C 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 
@@ -103,6 +102,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [shiyunjin/lan-expose](https://github.com/shiyunjin/lan-expose) - 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口
 - [anzhiyu-c/img2color-go](https://github.com/anzhiyu-c/img2color-go) - 一个获取图片主色调GO API
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
@@ -311,7 +311,6 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
 - [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
@@ -389,6 +388,7 @@
 
 ## TypeScript 
 
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [hyoban/obsidian-memos-plugin](https://github.com/hyoban/obsidian-memos-plugin) - 
 - [ocavue/prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - 
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
@@ -451,6 +451,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [AlandSleman/t3-twitter-clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with T3 Stack + NextAuth + Supabase + Prisma
 - [yomorun/react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - &lt;CursorChat /&gt; React Component helps bring Figma's Cursor Chat to your web applications in less than 3 minutes, making real-time collaboration anywhere.
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端
 - [qazxcdswe123/search-obsidian-in-google](https://github.com/qazxcdswe123/search-obsidian-in-google) - Search obsidian notes in google.
