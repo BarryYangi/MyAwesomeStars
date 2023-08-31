@@ -614,6 +614,7 @@
 
 ## javascript 
 
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
@@ -1058,6 +1059,7 @@
 
 ## react 
 
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
@@ -1317,6 +1319,7 @@
 
 ## vue 
 
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI. Free and open-source. A project developed by @productdevbookcom
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
