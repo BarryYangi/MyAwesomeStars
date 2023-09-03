@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [itheima1/BlockChain](https://github.com/itheima1/BlockChain) - 黑马程序员 120天全栈区块链开发 开源教程
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
