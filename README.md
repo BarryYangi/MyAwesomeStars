@@ -65,6 +65,7 @@
 
 ## CSS 
 
+- [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [Richard9394/MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
 - [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
