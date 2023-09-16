@@ -126,6 +126,7 @@
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
 - [Tikolu/emojimix](https://github.com/Tikolu/emojimix) - 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [pseudoyu/blockchain-guide](https://github.com/pseudoyu/blockchain-guide) - 区块链入门指南
@@ -310,7 +311,6 @@
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [justjavac/youre-the-os](https://github.com/justjavac/youre-the-os) - 🎮 在游戏里，你将扮演一台计算机的操作系统，你必须管理进程、内存和 I/O 事件，合理分配资源，一旦进程死亡太多，你就重启了，游戏失败
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [openmedlab/PULSE](https://github.com/openmedlab/PULSE) - PULSE: Pretrained and Unified Language Service Engine
 - [ben-29/workouts_page](https://github.com/ben-29/workouts_page) - Make your own workouts page
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
@@ -421,7 +421,7 @@
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [aaamoon/react1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器(支持 React、Vue3)
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [mogland/core](https://github.com/mogland/core) - 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
