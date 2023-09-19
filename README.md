@@ -202,7 +202,6 @@
 - [timdream/wordcloud](https://github.com/timdream/wordcloud) - HTML5 Word Cloud
 - [btk/memo](https://github.com/btk/memo) - Smart browser/desktop note taking app using GitHub Gists.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
@@ -267,6 +266,7 @@
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [LinuxSuRen/remote-jobs-in-china](https://github.com/LinuxSuRen/remote-jobs-in-china) - 支持远程办公的中国公司
+- [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
 - [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
 - [SyMind/awesome-bilibili](https://github.com/SyMind/awesome-bilibili) - b 站的宝藏 up 主名单，他们教技术。关于 Web 开发、计算机科学、机器学习、游戏开发、网络安全等 😎
@@ -320,6 +320,7 @@
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
 - [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
+- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [RimoChan/unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
@@ -463,7 +464,6 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [AlandSleman/t3-twitter-clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with T3 Stack + NextAuth + Supabase + Prisma
 - [yomorun/react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - &lt;CursorChat /&gt; React Component helps bring Figma's Cursor Chat to your web applications in less than 3 minutes, making real-time collaboration anywhere.
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端
 - [qazxcdswe123/search-obsidian-in-google](https://github.com/qazxcdswe123/search-obsidian-in-google) - Search obsidian notes in google.
