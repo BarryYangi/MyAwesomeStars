@@ -240,7 +240,7 @@
 ## Lua 
 
 - [bryant-video/neovim-tutorial](https://github.com/bryant-video/neovim-tutorial) - 
-- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. 可能是翻斗花园最好用的 neovim 配置[^1]。
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Structure, documented, super fast neovim configuration. (NEOVIM IS NOT IDE)
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 
 ## Makefile 
