@@ -87,6 +87,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [minecraft](#minecraft)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -749,6 +750,10 @@
 
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
+
+## mobile 
+
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iOS to search photos.
 
 ## mongodb 
 
