@@ -116,6 +116,7 @@
 - [reactjs](#reactjs)
 - [redux](#redux)
 - [rest-api](#rest-api)
+- [robotics](#robotics)
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
@@ -1193,6 +1194,10 @@
 ## rest-api 
 
 - [mogland/core](https://github.com/mogland/core) - 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统
+
+## robotics 
+
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 
 ## rust 
 
