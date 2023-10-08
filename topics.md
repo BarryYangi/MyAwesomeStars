@@ -282,7 +282,7 @@
 ## chrome 
 
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
+- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 ## chrome-extension 
 
@@ -1155,7 +1155,7 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [HiWayne/share-technology](https://github.com/HiWayne/share-technology) - 前端技术分享（含原创）
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
+- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 - [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
@@ -1406,7 +1406,7 @@
 
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
 - [HiWayne/share-technology](https://github.com/HiWayne/share-technology) - 前端技术分享（含原创）
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
+- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 - [biaochenxuying/blog](https://github.com/biaochenxuying/blog) - 大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。
 
 ## website 
