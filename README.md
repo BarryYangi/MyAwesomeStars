@@ -525,7 +525,7 @@
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [LunarFang416/url-animations](https://github.com/LunarFang416/url-animations) - 
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
