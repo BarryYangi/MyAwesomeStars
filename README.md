@@ -136,7 +136,6 @@
 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
-- [Tikolu/emojimix](https://github.com/Tikolu/emojimix) - 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -434,11 +433,11 @@
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [sxzz/telegram-bot-starter](https://github.com/sxzz/telegram-bot-starter) - A starter template for Telegram bots on Serverless, with Vercel, Netlify, and more support.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, vision supported, extensible, high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
-- [pugson/telegram-twitter-url-expand-bot](https://github.com/pugson/telegram-twitter-url-expand-bot) - 🐦️💬 Expand Twitter, Instagram, and TikTok links in Telegram chats & channels (with inline video)
+- [pugson/telegram-twitter-url-expand-bot](https://github.com/pugson/telegram-twitter-url-expand-bot) - 🐦️💬 Expand Twitter, Instagram, Hacker News, and TikTok links in Telegram chats & channels (with inline video)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [hyoban/obsidian-memos-plugin](https://github.com/hyoban/obsidian-memos-plugin) - 
 - [ocavue/prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - 
@@ -594,7 +593,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
-- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite5+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+- [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
 ## Zig 
 
