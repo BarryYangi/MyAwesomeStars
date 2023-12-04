@@ -460,7 +460,6 @@
 ## eslint 
 
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
-- [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
 
 ## ethereum 
 
@@ -1213,7 +1212,6 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [srobbin01/daisyui-admin-dashboard-template](https://github.com/srobbin01/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
 - [niwla23/template_react_pwa](https://github.com/niwla23/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
-- [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [Flower-F/revitesse-lite](https://github.com/Flower-F/revitesse-lite) - Vite + React Starter Template. Always keep fresh!
 - [Hacker-C/reactease](https://github.com/Hacker-C/reactease) - React + Unocss template starter
@@ -1441,7 +1439,6 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-- [playreact/template](https://github.com/playreact/template) - A React Vite starter template 🤏
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
