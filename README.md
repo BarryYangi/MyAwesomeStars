@@ -438,6 +438,7 @@
 
 ## TypeScript 
 
+- [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) - 
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
