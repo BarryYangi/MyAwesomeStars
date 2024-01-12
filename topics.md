@@ -305,7 +305,7 @@
 ## chrome-extension 
 
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
-- [aaamoon/react1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器(支持 React、Vue3)
+- [aaamoon/react1s](https://github.com/aaamoon/react1s) - Click React components in browser to instantly open the source in Editor
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
@@ -327,7 +327,7 @@
 
 ## compiler 
 
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 
 ## computer-science 
 
@@ -594,7 +594,6 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -609,7 +608,7 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [dukeluo/awesome-awesome-prompts](https://github.com/dukeluo/awesome-awesome-prompts) - An awesome list for collecting awesome lists related to prompt engineering.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -696,7 +695,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Tokinx/lately](https://github.com/Tokinx/lately) - Native JavaScript, only 800Byte but simple and easy to use Timeago plugin
@@ -714,7 +713,6 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
@@ -733,7 +731,7 @@
 
 - [casbin/casdoor-old](https://github.com/casbin/casdoor-old) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP and MFA
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
@@ -1199,12 +1197,12 @@
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
-- [aaamoon/react1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器(支持 React、Vue3)
+- [aaamoon/react1s](https://github.com/aaamoon/react1s) - Click React components in browser to instantly open the source in Editor
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -1243,7 +1241,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [SevenOutman/aplayer-react](https://github.com/SevenOutman/aplayer-react) - The missing APlayer for your React applications
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster. No migration at all.
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -1462,7 +1460,6 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
-- [aidenybai/million](https://github.com/aidenybai/million) - Make React 70% faster in minutes ▶️ npx million@latest
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
@@ -1500,7 +1497,7 @@
 - [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & TailwindCSS.
 - [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
