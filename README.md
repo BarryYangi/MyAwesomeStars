@@ -311,7 +311,7 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [justfont/The-Write-Right-Font](https://github.com/justfont/The-Write-Right-Font) - 由 justfont 的團隊製作，以 OpenType  實現輸入「常見錯字」即會自動改正功能的開源繁體中文字型，旨在協助所有被生活中各式錯字所困擾的朋友。
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
