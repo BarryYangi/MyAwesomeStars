@@ -1049,7 +1049,7 @@
 - [scroll-into-view/smooth-scroll-into-view-if-needed](https://github.com/scroll-into-view/smooth-scroll-into-view-if-needed) - Smoothly scroll elements into view, cross browser!
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [guangzhengli/hugo-theme-ladder](https://github.com/guangzhengli/hugo-theme-ladder) - A fast, clean Hugo theme | 一个简单而优雅的 hugo 主题
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀
 - [israelmitolu/react-music-player](https://github.com/israelmitolu/react-music-player) - 
 - [lxfater/LLMR-NLUP](https://github.com/lxfater/LLMR-NLUP) - A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
