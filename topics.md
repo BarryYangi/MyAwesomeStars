@@ -931,6 +931,7 @@
 
 ## others 
 
+- [UnicornDot/Hyprland-Desktop](https://github.com/UnicornDot/Hyprland-Desktop) - 
 - [qwreey/dotfiles](https://github.com/qwreey/dotfiles) - My dotfiles about vscode, gnome, or other
 - [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) - 
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
@@ -1060,7 +1061,7 @@
 - [SociallyIneptWeeb/LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI) - Your Personal Multilingual AI Translator
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [codrops/RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
