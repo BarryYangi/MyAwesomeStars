@@ -410,6 +410,7 @@
 
 ## Shell 
 
+- [UnicornDot/Hyprland-Desktop](https://github.com/UnicornDot/Hyprland-Desktop) - 
 - [qwreey/dotfiles](https://github.com/qwreey/dotfiles) - My dotfiles about vscode, gnome, or other
 - [Esonhugh/Attack_Code](https://github.com/Esonhugh/Attack_Code) - 文章 Attack Code 的详细全文。安全和开发总是具有伴生属性，尤其是云的安全方向，本篇文章是希望能帮助到读者的云安全入门材料。Full text of the article Attack Code. Security and development always have concomitant attributes, and this is especially true with t
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
@@ -417,7 +418,7 @@
 - [twilio/twilio-sans-mono](https://github.com/twilio/twilio-sans-mono) - Twilio Sans Mono is a beautiful and extensive open source programming font
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [taylorcoffelt/macos-docker](https://github.com/taylorcoffelt/macos-docker) - Runs a macOS image on QEMU in a docker container, with VNC, SSH and SPICE access
 - [liungkejin/Bash-Games](https://github.com/liungkejin/Bash-Games) - LINUX终端下的贪吃蛇(Snake), 屏保(ClockSaver), 俄罗斯方块(Tetris)游戏(使用Bash shell编写)
