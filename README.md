@@ -458,7 +458,7 @@
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [sxzz/telegram-bot-starter](https://github.com/sxzz/telegram-bot-starter) - A starter template for Telegram bots on Serverless, with Vercel, Netlify, and more support.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework. Support one-click free deployment of your private ChatGPT/Gemini/LLM application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
