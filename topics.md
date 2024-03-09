@@ -946,7 +946,6 @@
 
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [yinbaiyuan/Zigbee32Bridge](https://github.com/yinbaiyuan/Zigbee32Bridge) - 
-- [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [UnicornDot/Hyprland-Desktop](https://github.com/UnicornDot/Hyprland-Desktop) - 
 - [qwreey/dotfiles](https://github.com/qwreey/dotfiles) - My dotfiles about vscode, gnome, or other
 - [henryjeff/portfolio-website](https://github.com/henryjeff/portfolio-website) - 
