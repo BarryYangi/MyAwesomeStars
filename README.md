@@ -161,7 +161,7 @@
 
 ## Handlebars 
 
-- [sunface/BeatAI](https://github.com/sunface/BeatAI) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Haskell 
 
@@ -206,7 +206,6 @@
 - [zhheo/Post-Abstract-AI](https://github.com/zhheo/Post-Abstract-AI) - 适用于博客的文章摘要生成器
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
-- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [fullcalendar/fullcalendar-react](https://github.com/fullcalendar/fullcalendar-react) - The official React Component for FullCalendar
@@ -349,7 +348,7 @@
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
 - [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [justjavac/youre-the-os](https://github.com/justjavac/youre-the-os) - 🎮 在游戏里，你将扮演一台计算机的操作系统，你必须管理进程、内存和 I/O 事件，合理分配资源，一旦进程死亡太多，你就重启了，游戏失败
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -387,7 +386,7 @@
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont) - webfont package for the LXGW WenKai typeface
-- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 【重制中 Repairing】短信轰炸 / 短信测压 | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！
+- [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [codeshold/ddos-dos-tools](https://github.com/codeshold/ddos-dos-tools) - some sort of ddos-tools
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率）
 - [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、直播录制、分p投稿工具，支持twitch、ytb频道搬运。
@@ -516,6 +515,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
