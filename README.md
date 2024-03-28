@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -43,10 +42,6 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
-
-## Astro 
-
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 
 ## Batchfile 
 
