@@ -270,6 +270,7 @@
 
 ## c 
 
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
 ## chatgpt 
@@ -531,6 +532,7 @@
 
 ## git 
 
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [tw93/cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) - 🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行
@@ -941,7 +943,7 @@
 
 ## opengl 
 
-- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 
 ## others 
 
