@@ -286,7 +286,7 @@
 - [yinbaiyuan/Zigbee32Bridge](https://github.com/yinbaiyuan/Zigbee32Bridge) - 
 - [kepano/40-questions](https://github.com/kepano/40-questions) - Questions that I ask myself at the end of each year and each decade.
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide scroll lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3). 一款为 Spotify 提供滚动歌词的软件。(iTunes、Music Cente
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3). 一款为 Spotify 提供滚动
 - [nanxiaobei/front-end-dev-guide](https://github.com/nanxiaobei/front-end-dev-guide) - 🦋 前端开发行为指导规范
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -483,15 +483,15 @@
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [CaliCastle/cali-fm](https://github.com/CaliCastle/cali-fm) - One-click deploy your podcast website via RSS
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
-- [antfu/vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
-- [antfu/vitesse-lite](https://github.com/antfu/vitesse-lite) - ⛺️ Lightweight version of Vitesse
+- [antfu-collective/vitesse-nuxt3](https://github.com/antfu-collective/vitesse-nuxt3) - Vitesse for Nuxt 3 🏔💚⚡️
+- [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [aaamoon/react1s](https://github.com/aaamoon/react1s) - Click React components in browser to instantly open the source in Editor
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [mogland/core](https://github.com/mogland/core) - 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
-- [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+- [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
@@ -542,7 +542,7 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - React Pro Sidebar provides a set of components for creating high level and customizable side navigation
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
+- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [niwla23/template_react_pwa](https://github.com/niwla23/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [pacexy/tailwindcss-variable-colors](https://github.com/pacexy/tailwindcss-variable-colors) - Add dark mode support with just one class
