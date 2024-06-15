@@ -515,7 +515,7 @@
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn) - 
-- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building ambitious onchain applications
+- [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -600,7 +600,7 @@
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [Lete114/API-Interface](https://github.com/Lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
 - [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-- [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具(后台服务) & 自动投稿b站
+- [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制+投稿 工具/服务
 
 ## Vim Script 
 
