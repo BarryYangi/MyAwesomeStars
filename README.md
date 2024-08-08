@@ -451,6 +451,7 @@
 
 ## TypeScript 
 
+- [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [ibelick/background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
