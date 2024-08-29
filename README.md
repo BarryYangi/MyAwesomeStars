@@ -209,7 +209,6 @@
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [fullcalendar/fullcalendar-react](https://github.com/fullcalendar/fullcalendar-react) - The official React Component for FullCalendar
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [tiddly-gittly/TiddlyWiki-Chinese-Tutorial](https://github.com/tiddly-gittly/TiddlyWiki-Chinese-Tutorial) - 中文社区共建的太微（TiddlyWiki）教程
@@ -526,6 +525,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) - CLI to build and develop Next.js apps for Cloudflare Pages
 - [lgf196/JoL-player](https://github.com/lgf196/JoL-player) - simple and beautiful, powerful react player
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -559,7 +559,7 @@
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 - [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
