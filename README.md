@@ -103,7 +103,6 @@
 ## EJS 
 
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 ## Elixir 
 
