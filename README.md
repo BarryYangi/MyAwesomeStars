@@ -411,7 +411,7 @@
 ## Shell 
 
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
-- [UnicornDot/Hyprland-Desktop](https://github.com/UnicornDot/Hyprland-Desktop) - 
+- [Arch-Hyprland/Hyprlandwm](https://github.com/Arch-Hyprland/Hyprlandwm) - 
 - [qwreey/dotfiles](https://github.com/qwreey/dotfiles) - My dotfiles about vscode, gnome, or other
 - [Esonhugh/Attack_Code](https://github.com/Esonhugh/Attack_Code) - 文章 Attack Code 的详细全文。安全和开发总是具有伴生属性，尤其是云的安全方向，本篇文章是希望能帮助到读者的云安全入门材料。Full text of the article Attack Code. Security and development always have concomitant attributes, and this is especially true with t
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
@@ -438,7 +438,7 @@
 
 ## Swift 
 
-- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iOS to search photos.
+- [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 - [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing remote tech interviews with AI
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
