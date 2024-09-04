@@ -278,6 +278,7 @@
 ## Markdown 
 
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Others 
 
@@ -320,7 +321,6 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
@@ -474,7 +474,7 @@
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
 - [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
