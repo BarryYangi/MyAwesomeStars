@@ -81,6 +81,7 @@
 - [http](#http)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -710,6 +711,11 @@
 ## image-processing 
 
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
+
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
+- [pugson/telegram-twitter-url-expand-bot](https://github.com/pugson/telegram-twitter-url-expand-bot) - 🐦️💬 Expand Twitter, Instagram, Hacker News, and TikTok links in Telegram chats & channels (with inline video)
 
 ## ios 
 
