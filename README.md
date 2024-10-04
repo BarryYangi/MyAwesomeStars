@@ -261,7 +261,7 @@
 ## Lua 
 
 - [bryant-video/neovim-tutorial](https://github.com/bryant-video/neovim-tutorial) - 
-- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Useful, maintainable, multi-language supported neovim configuration.
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Handy, maintainable, multi-languages supported neovim configuration.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 
