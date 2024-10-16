@@ -447,7 +447,7 @@
 
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
-- [barvian/motion-number](https://github.com/barvian/motion-number) - A Framer Motion component that transitions, formats, and localizes numbers.
+- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers.
 - [TinsFox/shadcnui-boilerplate](https://github.com/TinsFox/shadcnui-boilerplate) - A boilerplate built with shadcn/ui for rapid development of modern web applications.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [ibelick/background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
