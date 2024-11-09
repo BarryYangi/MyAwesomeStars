@@ -453,6 +453,7 @@
 
 ## design 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 
@@ -500,6 +501,7 @@
 
 ## electron 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
@@ -568,6 +570,7 @@
 
 ## frontend 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
@@ -651,6 +654,7 @@
 
 ## hacktoberfest 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
@@ -870,6 +874,7 @@
 
 ## low-code 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
@@ -960,6 +965,8 @@
 
 ## nextjs 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
+- [rudrodip/shadcn-date-time-picker](https://github.com/rudrodip/shadcn-date-time-picker) - ShadCN Date Time Picker
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
@@ -1056,6 +1063,8 @@
 
 ## others 
 
+- [rudrodip/theme-toggle-effect](https://github.com/rudrodip/theme-toggle-effect) - theme toggle effect using view transitions api
+- [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip
 - [JaleelB/metawizard](https://github.com/JaleelB/metawizard) - An open-source metadata builder tool for creating metadata and metadata file conventions for Next.js 13+ apps.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [laishulu/Sarasa-Term-SC-Nerd](https://github.com/laishulu/Sarasa-Term-SC-Nerd) - 简体中文终端更纱黑体+Nerd图标字体库。中英文宽度完美2:1，图标长宽经过调整，不会出现对齐问题，尤其适合作为终端字体。
@@ -1317,6 +1326,7 @@
 
 ## react 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
 - [TinsFox/shadcnui-boilerplate](https://github.com/TinsFox/shadcnui-boilerplate) - A boilerplate built with shadcn/ui for rapid development of modern web applications.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
@@ -1560,6 +1570,7 @@
 
 ## tailwindcss 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [ibelick/background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
@@ -1621,6 +1632,7 @@
 
 ## typescript 
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [yihui-hu/y0p](https://github.com/yihui-hu/y0p) - pushing the boundaries of human communication on the web through highlighting text, recreation of https://fichtre.net/yop.html
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
