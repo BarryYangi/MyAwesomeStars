@@ -33,6 +33,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [Svelte](#svelte)
@@ -410,8 +411,13 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 
+## SCSS 
+
+- [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 - [Arch-Hyprland/Hyprlandwm](https://github.com/Arch-Hyprland/Hyprlandwm) - 
 - [qwreey/dotfiles](https://github.com/qwreey/dotfiles) - My dotfiles about vscode, gnome, or other
