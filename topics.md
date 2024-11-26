@@ -648,7 +648,7 @@
 - [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [hr3lxphr6j/bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
 
@@ -751,7 +751,6 @@
 
 ## instagram 
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [pugson/telegram-twitter-url-expand-bot](https://github.com/pugson/telegram-twitter-url-expand-bot) - 🐦️💬 Expand Twitter, Instagram, Bluesky, Hacker News, Dribbble, Posts.cv, and TikTok links in Telegram chats & channels (with inline video)
 
 ## ios 
@@ -773,6 +772,7 @@
 
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
@@ -1291,7 +1291,7 @@
 
 ## php 
 
-- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore!
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 
 ## pixel-art 
@@ -1583,6 +1583,7 @@
 
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Create modern Tauri desktop apps in just a few simple steps with shadcn/ui. React, Next.js, Sveltekit.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -1671,6 +1672,7 @@
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [yihui-hu/y0p](https://github.com/yihui-hu/y0p) - pushing the boundaries of human communication on the web through highlighting text, recreation of https://fichtre.net/yop.html
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -1746,7 +1748,7 @@
 - [vueuse/motion](https://github.com/vueuse/motion) - 🤹 Vue Composables putting your components in motion
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
-- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成
+- [zmh-program/code-statistic](https://github.com/zmh-program/code-statistic) - ⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore!
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
