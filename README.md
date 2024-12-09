@@ -271,6 +271,9 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+- [chaozwn/astronvim_with_coc_or_mason](https://github.com/chaozwn/astronvim_with_coc_or_mason) - astronvim_config
 - [bryant-video/neovim-tutorial](https://github.com/bryant-video/neovim-tutorial) - 
 - [Avimitin/nvim](https://github.com/Avimitin/nvim) - Handy, maintainable, multi-languages supported neovim configuration.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
