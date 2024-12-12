@@ -1136,10 +1136,11 @@
 
 ## others 
 
+- [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [chaozwn/astronvim_with_coc_or_mason](https://github.com/chaozwn/astronvim_with_coc_or_mason) - astronvim_config
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
 - [ui-layouts/cursify](https://github.com/ui-layouts/cursify) - Cursor Animation Library for React & Next.js
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
@@ -1574,7 +1575,7 @@
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.         memos的微信小程序版本，可以转化为app
+- [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 
 ## server 
