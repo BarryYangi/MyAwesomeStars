@@ -116,6 +116,7 @@
 
 ## Go 
 
+- [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -184,6 +185,7 @@
 
 ## JavaScript 
 
+- [steren/rtx-on](https://github.com/steren/rtx-on) - Drop the box shadow, use ray tracing on your web pages
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
@@ -214,7 +216,7 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [spinningarrow/zoom-vanilla.js](https://github.com/spinningarrow/zoom-vanilla.js) - Medium's image zoom in vanilla JS (no jQuery).
-- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
+- [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [zhheo/Post-Abstract-AI](https://github.com/zhheo/Post-Abstract-AI) - 适用于博客的文章摘要生成器
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
@@ -469,6 +471,8 @@
 
 ## TypeScript 
 
+- [codse/animata](https://github.com/codse/animata) - Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
