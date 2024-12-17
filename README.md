@@ -77,7 +77,7 @@
 
 ## CSS 
 
-- [micro-zoe/micro-app](https://github.com/micro-zoe/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
+- [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [muan/emoji](https://github.com/muan/emoji) - :love_letter: Find the emoji that echoes your mind.
 - [Richard9394/MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [steren/rtx-on](https://github.com/steren/rtx-on) - Drop the box shadow, use ray tracing on your web pages
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
