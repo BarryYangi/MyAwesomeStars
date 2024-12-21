@@ -1151,6 +1151,7 @@
 
 ## others 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
 - [steren/rtx-on](https://github.com/steren/rtx-on) - Drop the box shadow, use ray tracing on your web pages
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
