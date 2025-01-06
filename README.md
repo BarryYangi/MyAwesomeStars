@@ -479,6 +479,7 @@
 
 ## TypeScript 
 
+- [Naresh-Khatri/Portfolio](https://github.com/Naresh-Khatri/Portfolio) - Showcasing my web dev skills with 3D magic, slick interactions, and cutting-edge design.
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
