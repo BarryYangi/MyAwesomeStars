@@ -483,7 +483,9 @@
 
 ## TypeScript 
 
-- [vikiboss/60s](https://github.com/vikiboss/60s) - 60s API ｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合
+- [allankevinrichie/tauri2-nextjs-template](https://github.com/allankevinrichie/tauri2-nextjs-template) - A template for kick starting a Tauri-2 project with Next.js frontend.
+- [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API ｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Deno / Bun / Cloudflare Workers / Node.js 部署
 - [Naresh-Khatri/Portfolio](https://github.com/Naresh-Khatri/Portfolio) - Showcasing my web dev skills with 3D magic, slick interactions, and cutting-edge design.
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
