@@ -443,7 +443,6 @@
 - [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
 - [azouaoui-med/css-pro-layout](https://github.com/azouaoui-med/css-pro-layout) - CSS library for building responsive and customizable layouts
 - [cssmagic/blog](https://github.com/cssmagic/blog) - CSS魔法 - 博客
@@ -779,7 +778,6 @@
 
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -815,6 +813,7 @@
 
 ## instagram 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [pugson/telegram-twitter-url-expand-bot](https://github.com/pugson/telegram-twitter-url-expand-bot) - 🐦️💬 Expand Twitter, Instagram, Bluesky, Hacker News, Dribbble, Posts.cv, and TikTok links in Telegram chats & channels (with inline video)
 
 ## ios 
