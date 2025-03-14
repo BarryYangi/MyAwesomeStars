@@ -199,6 +199,7 @@
 
 ## ai 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
@@ -244,7 +245,7 @@
 
 ## api 
 
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，哪吒 2 实时票房、每天 60 秒看世界｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，哪吒 2 票房、KFC 疯狂星期四、每天 60 秒看世界｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -498,7 +499,7 @@
 
 ## deno 
 
-- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，哪吒 2 实时票房、每天 60 秒看世界｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，哪吒 2 票房、KFC 疯狂星期四、每天 60 秒看世界｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## deployment 
@@ -736,6 +737,7 @@
 
 ## hacktoberfest 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -843,6 +845,7 @@
 
 ## javascript 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
@@ -914,6 +917,7 @@
 
 ## js 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [casbin/casdoor-old](https://github.com/casbin/casdoor-old) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP and MFA
 - [underpig1/octos](https://github.com/underpig1/octos) - HTML live wallpaper engine :rocket:
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -967,6 +971,7 @@
 
 ## llm 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram 等消息平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、Ch
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
@@ -1459,6 +1464,7 @@
 
 ## python 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
@@ -1826,6 +1832,7 @@
 
 ## typescript 
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [leon3s/nextauri](https://github.com/leon3s/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
