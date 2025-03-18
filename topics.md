@@ -246,6 +246,7 @@
 ## api 
 
 - [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API，哪吒 2 票房、KFC 疯狂星期四、每天 60 秒看世界｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -352,6 +353,7 @@
 - [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram 等消息平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Gemini、xAI Grok、Ollama、LM Studio、阿里云百炼、火山方舟、SiliconFlow、Qwen、Moonshot、Ch
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
@@ -1241,7 +1243,6 @@
 - [ckcr4lyf/EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
-- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [Otto-J/sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) - sync obsidian notes to xlog.app
 - [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
