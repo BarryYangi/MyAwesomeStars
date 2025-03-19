@@ -1207,6 +1207,7 @@
 
 ## others 
 
+- [muzihuaner/LiveBG](https://github.com/muzihuaner/LiveBG) - OBS直播背景装饰页
 - [Lakr233/FlowDown-App](https://github.com/Lakr233/FlowDown-App) - https://flowdown.ai/
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [ShevonKuan/nginx-error-page](https://github.com/ShevonKuan/nginx-error-page) - Yet another error-page for nginx
