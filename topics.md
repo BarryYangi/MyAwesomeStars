@@ -1014,6 +1014,7 @@
 
 ## macos 
 
+- [loopwork-ai/iMCP](https://github.com/loopwork-ai/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, and more
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
 - [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
