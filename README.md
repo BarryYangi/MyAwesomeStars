@@ -479,6 +479,7 @@
 
 ## Swift 
 
+- [loopwork-ai/iMCP](https://github.com/loopwork-ai/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, and more
 - [Lakr233/FlowDown-App](https://github.com/Lakr233/FlowDown-App) - https://flowdown.ai/
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 - [alexwidua/prototypes](https://github.com/alexwidua/prototypes) - little monorepo of swiftui prototypes
