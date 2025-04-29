@@ -480,7 +480,7 @@
 
 ## Swift 
 
-- [XiCheng000/Dockit](https://github.com/XiCheng000/Dockit) - 一款专注于将窗口停靠到屏幕边缘的应用
+- [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - 一款专注于将窗口停靠到屏幕边缘的应用
 - [loopwork-ai/iMCP](https://github.com/loopwork-ai/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
 - [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) - https://flowdown.ai/
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
