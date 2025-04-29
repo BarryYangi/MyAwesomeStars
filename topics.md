@@ -1768,7 +1768,7 @@
 
 ## swift 
 
-- [XiCheng000/Dockit](https://github.com/XiCheng000/Dockit) - 一款专注于将窗口停靠到屏幕边缘的应用
+- [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - 一款专注于将窗口停靠到屏幕边缘的应用
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
