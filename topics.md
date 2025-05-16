@@ -337,7 +337,7 @@
 
 ## bot 
 
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bots platform for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconF
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、
 - [sxzz/telegram-bot-starter](https://github.com/sxzz/telegram-bot-starter) - A starter template for Telegram bots on Serverless, with Vercel, Netlify, Cloudflare, and more support.
 - [pugson/telegram-twitter-url-expand-bot](https://github.com/pugson/telegram-twitter-url-expand-bot) - 🐦️💬 Expand Twitter, Instagram, Reddit, Bluesky, Hacker News, Dribbble, and TikTok links in Telegram chats & channels (with inline video)
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
@@ -359,7 +359,7 @@
 
 ## chatgpt 
 
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bots platform for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconF
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
@@ -989,7 +989,7 @@
 
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bots platform for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconF
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、
 - [ibeatai/beat-ai](https://github.com/ibeatai/beat-ai) - &lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -1005,7 +1005,7 @@
 
 ## login 
 
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity platform for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 
 ## low-code 
 
@@ -1208,7 +1208,7 @@
 
 ## openai 
 
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bots platform for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconF
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
@@ -1591,7 +1591,7 @@
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
@@ -1634,7 +1634,7 @@
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
 - [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - React Pro Sidebar provides a set of components for creating high level and customizable side navigation
 - [codebucks27/react-sidebar](https://github.com/codebucks27/react-sidebar) - Create awesome sidebar for your portfolio or any projects, It is build using ReactJs and styled-components. React router is already configured, Also it has page transition effect using framer-motion.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -1843,7 +1843,7 @@
 
 ## telegram 
 
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bots platform for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 | 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconF
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、
 - [sxzz/telegram-bot-starter](https://github.com/sxzz/telegram-bot-starter) - A starter template for Telegram bots on Serverless, with Vercel, Netlify, Cloudflare, and more support.
 - [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
@@ -1893,7 +1893,7 @@
 - [leon3s/nextauri](https://github.com/leon3s/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity platform for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - Open source vibe coding app
 - [yihui-hu/y0p](https://github.com/yihui-hu/y0p) - pushing the boundaries of human communication on the web through highlighting text, recreation of https://fichtre.net/yop.html
