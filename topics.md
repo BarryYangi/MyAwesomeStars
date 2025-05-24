@@ -212,7 +212,7 @@
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
@@ -990,7 +990,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、
-- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [openmedlab/PULSE](https://github.com/openmedlab/PULSE) - PULSE: Pretrained and Unified Language Service Engine
@@ -1109,7 +1109,7 @@
 
 ## neural-network 
 
-- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你战胜 AI，Just beat it! 欢迎 star 订阅，记住域名不迷路 https://BeatAI.cn
+- [ibeatai/BeatAI](https://github.com/ibeatai/BeatAI) - 持续分享/翻译 AI 领域的优秀内容，帮你征服 AI，Just beat it! 欢迎 star 订阅.
 
 ## nextjs 
 
