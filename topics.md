@@ -1311,7 +1311,7 @@
 - [ben-29/workouts_page](https://github.com/ben-29/workouts_page) - Make your own workouts page
 - [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
-- [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) - 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
+- [pingcap/pingcap.github.io](https://github.com/pingcap/pingcap.github.io) - TiDB AI Documentations
 - [adyanth/openwrt-tailscale-enabler](https://github.com/adyanth/openwrt-tailscale-enabler) - Brings Tailscale to low powered OpenWRT devices
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [fisand/unocss-preset-shadcn](https://github.com/fisand/unocss-preset-shadcn) - 
