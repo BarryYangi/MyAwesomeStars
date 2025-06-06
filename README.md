@@ -498,6 +498,7 @@
 
 ## TypeScript 
 
+- [Iris-Photo-Gallery/Iris](https://github.com/Iris-Photo-Gallery/Iris) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
 - [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
