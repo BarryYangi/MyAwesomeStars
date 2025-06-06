@@ -1235,6 +1235,7 @@
 
 ## others 
 
+- [Iris-Photo-Gallery/Iris](https://github.com/Iris-Photo-Gallery/Iris) - Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [xfgryujk/blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
