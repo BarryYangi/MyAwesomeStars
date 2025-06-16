@@ -498,6 +498,7 @@
 
 ## TypeScript 
 
+- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [Afilmory/Afilmory](https://github.com/Afilmory/Afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 - [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
