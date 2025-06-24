@@ -497,6 +497,7 @@
 
 ## TypeScript 
 
+- [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [Afilmory/Afilmory](https://github.com/Afilmory/Afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
 - [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support.
@@ -671,7 +672,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [velor2012/anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - Anonymous Chat Room Power By Livekit And Next.js
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
