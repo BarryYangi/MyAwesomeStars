@@ -654,7 +654,7 @@
 - [Flower-F/vitesse-react](https://github.com/Flower-F/vitesse-react) - Bun + Vite + React Starter Template. Always keep fresh!
 - [Hacker-C/reactease](https://github.com/Hacker-C/reactease) - React + Unocss template starter
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-- [grubersjoe/react-github-calendar](https://github.com/grubersjoe/react-github-calendar) - A React component to display a GitHub contributions calendar
+- [grubersjoe/react-github-calendar](https://github.com/grubersjoe/react-github-calendar) - React component to display a GitHub contributions calendar
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 - [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
