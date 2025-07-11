@@ -6,7 +6,6 @@
 ## Contents
 
 - [Astro](#astro)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -47,10 +46,6 @@
 ## Astro 
 
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
-
-## Batchfile 
-
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## C 
 
@@ -356,6 +351,7 @@
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) - 
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
 - [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
