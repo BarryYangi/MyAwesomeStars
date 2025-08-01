@@ -167,7 +167,7 @@
 ## Handlebars 
 
 - [sunface/new-rusty-book](https://github.com/sunface/new-rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
-- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 学习社区: 持续分享 AI 领域的高质量进阶知识，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 
 ## Haskell 
 
@@ -509,7 +509,7 @@
 - [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory) - A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.
-- [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Vercel's Open Source Program Summer Cohort 2025.
+- [ncdai/react-wheel-picker](https://github.com/ncdai/react-wheel-picker) - iOS-like wheel picker for React with smooth inertia scrolling and infinite loop support. / Vercel's Open Source Program summer 2025 cohort.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
