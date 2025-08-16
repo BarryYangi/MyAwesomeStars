@@ -502,7 +502,7 @@
 - [huozhi/vaso](https://github.com/huozhi/vaso) - Liquid Glass effect for React
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for coding agents. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your unified, shareable memory layer for AI apps. Compatible with Cursor, Claude Desktop, Claude Code, Gemini CLI, Windsurf, AWS's Kiro, VSCode, Cline
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [modelcontextprotocol/use-mcp](https://github.com/modelcontextprotocol/use-mcp) - 
