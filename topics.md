@@ -133,6 +133,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [openai](#openai)
@@ -1230,6 +1231,11 @@
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
+## obsidian-md 
+
+- [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
+- [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
+
 ## obsidian-plugin 
 
 - [Otto-J/sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) - sync obsidian notes to xlog.app
@@ -1274,6 +1280,7 @@
 
 ## others 
 
+- [waditu/czsc](https://github.com/waditu/czsc) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 - [oxidecomputer/mitos](https://github.com/oxidecomputer/mitos) - ASCII art generator for brand assets
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
@@ -1404,7 +1411,6 @@
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
 - [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
-- [AnubisNekhet/AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Personal theme for Obsidian
 - [BarryYangi/MemosGallery](https://github.com/BarryYangi/MemosGallery) - A static page rendered with the Memos API.
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
