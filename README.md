@@ -274,6 +274,7 @@
 
 ## Jupyter Notebook 
 
+- [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [SociallyIneptWeeb/LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI) - Your Personal Multilingual AI Translator
 
