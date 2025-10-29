@@ -1313,6 +1313,7 @@
 
 ## others 
 
+- [vercel-labs/chatgpt-apps-sdk-nextjs-starter](https://github.com/vercel-labs/chatgpt-apps-sdk-nextjs-starter) - 
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [45609/Scripts](https://github.com/45609/Scripts) - TradingView Indicators
 - [cryptorife/aggr-templates](https://github.com/cryptorife/aggr-templates) - templates for aggr.trade
