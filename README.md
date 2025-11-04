@@ -505,6 +505,7 @@
 
 ## TypeScript 
 
+- [SAPikachu/amae-koromo](https://github.com/SAPikachu/amae-koromo) - 雀魂牌谱屋 (See also: https://github.com/SAPikachu/amae-koromo-scripts )
 - [vercel-labs/chatgpt-apps-sdk-nextjs-starter](https://github.com/vercel-labs/chatgpt-apps-sdk-nextjs-starter) - 
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
 - [xishang0128/sparkle](https://github.com/xishang0128/sparkle) - :electron: Another Mihomo GUI. (🛠building...)
