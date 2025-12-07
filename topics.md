@@ -1368,6 +1368,7 @@
 
 ## others 
 
+- [Small-tailqwq/RealTimeWeatherMod](https://github.com/Small-tailqwq/RealTimeWeatherMod) - 一个全部内容均由 AI 编写的：基于 C# 的 Chill with You : Lo-Fi Story 环境同步工具，支持天气同步、时间同步等功能。
 - [vercel-labs/chatgpt-apps-sdk-nextjs-starter](https://github.com/vercel-labs/chatgpt-apps-sdk-nextjs-starter) - 
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [cryptorife/aggr-templates](https://github.com/cryptorife/aggr-templates) - templates for aggr.trade
