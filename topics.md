@@ -255,7 +255,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -291,7 +291,7 @@
 
 ## android 
 
-- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 
 ## ansible 
 
@@ -307,7 +307,7 @@
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
@@ -859,6 +859,7 @@
 
 ## hacktoberfest 
 
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -1371,6 +1372,7 @@
 
 ## others 
 
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -1667,7 +1669,7 @@
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的mcp框架。
+- [xszyou/Fay](https://github.com/xszyou/Fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
