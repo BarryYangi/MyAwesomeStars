@@ -645,6 +645,7 @@
 
 ## docker 
 
+- [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -1238,6 +1239,7 @@
 
 ## nextjs 
 
+- [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [opennextjs/opennextjs-cloudflare](https://github.com/opennextjs/opennextjs-cloudflare) - Open Next.js adapter for Cloudflare
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
@@ -1253,7 +1255,6 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [CaliCastle/cali-fm](https://github.com/CaliCastle/cali-fm) - One-click deploy your podcast website via RSS
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -1374,6 +1375,8 @@
 
 ## others 
 
+- [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) - MCP to connect your LLM with Spotify.
+- [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk) - 
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
