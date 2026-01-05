@@ -374,6 +374,8 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) - MCP to connect your LLM with Spotify.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -513,6 +515,8 @@
 
 ## TypeScript 
 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper for today. Less but handy features for plain Markdown lovers.
 - [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk) - 
