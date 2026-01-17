@@ -115,7 +115,6 @@
 
 ## Go 
 
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [yetone/smart-suggestion](https://github.com/yetone/smart-suggestion) - Get AI-powered command suggestions **directly** in your zsh shell.
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
@@ -189,6 +188,7 @@
 
 ## JavaScript 
 
+- [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - 
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -379,11 +379,12 @@
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。 AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测。支持 Docker 一键部署，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。⭐
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) - MCP to connect your LLM with Spotify.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [Sider-ai/hatchify](https://github.com/Sider-ai/hatchify) - 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [l-thoms/YomengScript-Font](https://github.com/l-thoms/YomengScript-Font) - 一款由 Yomogi 字体二次开发的中文字体
 - [ChainBuff/open-sol-bot](https://github.com/ChainBuff/open-sol-bot) - 一个完全开源的 Solana 链上交易机器人，支持跟单交易和自动交易功能。 A fully open-source Solana on-chain trading bot that supports copy trading and automated trading features.
 - [waditu/czsc](https://github.com/waditu/czsc) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
@@ -461,6 +462,7 @@
 
 ## Rust 
 
+- [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - proxycast 创作类 AI agent
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -478,7 +480,7 @@
 
 ## Shell 
 
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -520,6 +522,7 @@
 
 ## TypeScript 
 
+- [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
