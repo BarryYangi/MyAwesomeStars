@@ -520,6 +520,7 @@
 
 ## TypeScript 
 
+- [lekt9/unbrowse-openclaw](https://github.com/lekt9/unbrowse-openclaw) - Unbrowse for Openclaw — self-learning API skill generator for openclaw/clawdbot. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, locally.
 - [vm0-ai/vm0](https://github.com/vm0-ai/vm0) - the easiest way to run natural language-described workflows automatically
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
