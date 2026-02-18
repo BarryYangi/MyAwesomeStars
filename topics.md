@@ -149,6 +149,7 @@
 - [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
+- [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -240,6 +241,7 @@
 
 ## agent 
 
+- [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it.
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -253,6 +255,7 @@
 
 ## ai 
 
+- [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it.
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -1165,6 +1168,7 @@
 
 ## llm 
 
+- [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono).
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -1216,6 +1220,7 @@
 
 ## macos 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -1462,8 +1467,15 @@
 
 - [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 
+## osint 
+
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+
 ## others 
 
+- [lightmode-laboratories/nova](https://github.com/lightmode-laboratories/nova) - 
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) - 让 OpenClaw稳定的连上你的个人微信
 - [hiaaryan/sileo](https://github.com/hiaaryan/sileo) - An opinionated, physics-based toast component for React.
@@ -2094,6 +2106,7 @@
 
 ## swift 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - An application that can dock any window to the edge of the screen.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI
@@ -2101,6 +2114,7 @@
 
 ## swiftui 
 
+- [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI
