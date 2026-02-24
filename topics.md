@@ -1479,6 +1479,7 @@
 
 ## others 
 
+- [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills) - 视频中分享的方法论代码参考
 - [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - File-driven AI trading agent engine for crypto and securities markets
 - [ninehills/skills](https://github.com/ninehills/skills) - My LLM skills
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
