@@ -390,13 +390,14 @@
 
 ## Python 
 
+- [ARC-MX/sgcc_electricity_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [mvanhorn/clawdbot-skill-polymarket](https://github.com/mvanhorn/clawdbot-skill-polymarket) - Polymarket prediction markets skill for Clawdbot - browse markets, check odds, and trade with full CLI support
 - [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills) - 视频中分享的方法论代码参考
 - [ninehills/skills](https://github.com/ninehills/skills) - My LLM skills
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
-- [PsiACE/bub](https://github.com/PsiACE/bub) - Bub it. Build it.
+- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
@@ -486,7 +487,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant framework — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
