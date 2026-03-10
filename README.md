@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [XianYuLauncher/XianYuLauncher](https://github.com/XianYuLauncher/XianYuLauncher) - A UI-perfect Minecraft Java Edition launcher | XianYu Launcher
 - [Justsenger/ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 - [Small-tailqwq/RealTimeWeatherMod](https://github.com/Small-tailqwq/RealTimeWeatherMod) - 一个全部内容均由 AI 编写的：基于 C# 的 Chill with You : Lo-Fi Story 环境同步工具，支持天气同步、时间同步等功能。
 - [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
@@ -170,7 +171,7 @@
 ## Handlebars 
 
 - [sunface/new-rusty-book](https://github.com/sunface/new-rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
-- [OpenGenesisLab/beat-ai](https://github.com/OpenGenesisLab/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+- [genesislab-ai/beat-ai](https://github.com/genesislab-ai/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 
 ## Haskell 
 
@@ -249,7 +250,6 @@
 - [btk/memo](https://github.com/btk/memo) - Smart browser/desktop note taking app using GitHub Gists.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -395,6 +395,7 @@
 
 ## Python 
 
+- [jackwener/twitter-cli](https://github.com/jackwener/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [TraderAlice/OpenBB-Alice](https://github.com/TraderAlice/OpenBB-Alice) - Financial data platform for analysts, quants and AI agents.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -502,7 +503,6 @@
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -588,7 +588,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — agent native browser skill for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
+- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser skill/cli for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
 - [vm0-ai/vm0](https://github.com/vm0-ai/vm0) - the easiest way to run natural language-described workflows automatically
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
@@ -611,6 +611,7 @@
 - [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk) - 
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
+- [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
@@ -794,6 +795,7 @@
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
 - [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling) - A library for creating Scrollytelling animations, powered by React & GSAP.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [fast-average-color/fast-average-color](https://github.com/fast-average-color/fast-average-color) - 🍏🍊🍅 Fast Average Color
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
@@ -835,7 +837,7 @@
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [lete114/API-Interface](https://github.com/lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
 - [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
-- [ZhangMingZhao1/StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制+投稿 工具/服务
+- [StreamerHelper/StreamerHelper](https://github.com/StreamerHelper/StreamerHelper) - 全平台主播录制+投稿 工具/服务
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 
 ## Vim Script 
