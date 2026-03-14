@@ -575,6 +575,7 @@
 
 ## TypeScript 
 
+- [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
@@ -736,7 +737,7 @@
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All-in-one ChatGPT CLI - Build custom AI tools like GitHub Actions. Features AI commit, natural language commands, translation, and gitmoji. Create powerful CLI tools in seconds, bridging natural la
 - [aaamoon/react1s](https://github.com/aaamoon/react1s) - Click React components in browser to instantly open the source in Editor
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [mogland/core](https://github.com/mogland/core) - 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统
 - [CatsJuice/ipad-cursor](https://github.com/CatsJuice/ipad-cursor) - ● Mouse effect of iPad in browser that can be used in any framework
 - [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
