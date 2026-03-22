@@ -278,6 +278,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [limecloud/lime](https://github.com/limecloud/lime) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
 - [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your personal butler
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -830,6 +831,7 @@
 
 ## finance 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
@@ -1443,7 +1445,7 @@
 ## nodejs 
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your digital brain which can talk to your AI apps.
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your personal butler
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -1543,6 +1545,11 @@
 
 ## others 
 
+- [CommonstackAI/UncommonRoute](https://github.com/CommonstackAI/UncommonRoute) - A local LLM router that intelligently dispatches AI requests to the right model — saving cost without sacrificing quality.
+- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [preetsuthar17/loftlyy](https://github.com/preetsuthar17/loftlyy) - Brand identity of brands for inspiration.
+- [remorses/opencode-config](https://github.com/remorses/opencode-config) - My opencode folder with plugins, agents, tools, etc
 - [jakemor/kanna](https://github.com/jakemor/kanna) - A beautiful web-based UI for Claude Code & Codex
 - [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -1555,7 +1562,7 @@
 - [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [cclank/news-aggregator-skill](https://github.com/cclank/news-aggregator-skill) - 这是一个为您定制的全网新闻聚合skill,支持多个信息源，支持深度获取，能够阅读文章正文并提供有理有据的深度解读。
-- [jackwener/twitter-cli](https://github.com/jackwener/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
+- [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [TraderAlice/OpenBB-Alice](https://github.com/TraderAlice/OpenBB-Alice) - Financial data platform for analysts, quants and AI agents.
 - [homeassistant-ai/skills](https://github.com/homeassistant-ai/skills) - Home Assistant skills for agents
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -1845,7 +1852,7 @@
 
 ## postgresql 
 
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your digital brain which can talk to your AI apps.
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your personal butler
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
@@ -2375,7 +2382,7 @@
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your digital brain which can talk to your AI apps.
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your personal butler
 - [un-ts/unuse](https://github.com/un-ts/unuse) - learn once, use everywhere
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
