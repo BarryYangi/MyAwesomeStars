@@ -1545,6 +1545,8 @@
 
 ## others 
 
+- [olelehmann100kMRR/autoresearch-skill](https://github.com/olelehmann100kMRR/autoresearch-skill) - 
+- [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
 - [CommonstackAI/UncommonRoute](https://github.com/CommonstackAI/UncommonRoute) - A local LLM router that intelligently dispatches AI requests to the right model — saving cost without sacrificing quality.
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
