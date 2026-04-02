@@ -526,6 +526,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) - 
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -597,7 +598,7 @@
 
 ## TypeScript 
 
-- [shipany-ai/open-agent-sdk](https://github.com/shipany-ai/open-agent-sdk) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
+- [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [LitoMore/simple-icons-cdn](https://github.com/LitoMore/simple-icons-cdn) - 🎨 Colorable and resizable CDN for Simple Icons
 - [AmazingAng/PolyWorld](https://github.com/AmazingAng/PolyWorld) - Real-time Polymarket prediction market visualization dashboard with an interactive world map.
