@@ -388,7 +388,6 @@
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) - 
-- [StreamerHelper/StreamerHelper](https://github.com/StreamerHelper/StreamerHelper) - 全平台主播录制+投稿服务
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
 - [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
 - [zhouie/markdown-emoji](https://github.com/zhouie/markdown-emoji) - Markdown语法支持添加 emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情
@@ -883,6 +882,7 @@
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
 - [lete114/API-Interface](https://github.com/lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
 - [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
+- [StreamerHelper/web-server](https://github.com/StreamerHelper/web-server) - Core backend services for StreamerHelper
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 
 ## Vim Script 
