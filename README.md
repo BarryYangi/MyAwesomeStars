@@ -205,6 +205,7 @@
 
 ## JavaScript 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
 - [Paidax01/math-curve-loaders](https://github.com/Paidax01/math-curve-loaders) - A lightweight gallery of mathematical curve based loading animations with modal previews, formulas, and copyable code snippets.
 - [lixiaolin94/skills](https://github.com/lixiaolin94/skills) - Collection of AI agent skills for Claude Code
@@ -532,6 +533,7 @@
 
 ## Rust 
 
+- [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners for Rust
 - [Glass-HQ/Glass](https://github.com/Glass-HQ/Glass) - Browse. Edit. Ship. – Glass unifies your browser, and development environment into one app.
@@ -625,7 +627,11 @@
 
 ## TypeScript 
 
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - 
+- [AnaArsonist/anahoward.me](https://github.com/AnaArsonist/anahoward.me) - 
+- [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
+- [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
