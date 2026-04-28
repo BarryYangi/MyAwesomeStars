@@ -118,7 +118,6 @@
 - [js](#js)
 - [json](#json)
 - [jupyter-notebook](#jupyter-notebook)
-- [koa](#koa)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
@@ -1274,10 +1273,6 @@
 
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 
-## koa 
-
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-
 ## kubernetes 
 
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -1675,6 +1670,7 @@
 
 ## others 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [AnaArsonist/anahoward.me](https://github.com/AnaArsonist/anahoward.me) - 
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
@@ -1710,7 +1706,7 @@
 - [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Xuanwo/xurl](https://github.com/Xuanwo/xurl) - xURL: Client for AI Agents URLs
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [6551Team/daily-news](https://github.com/6551Team/daily-news) - Daily news and hot topics via the 6551 API. Supports news categories, hot news articles, and trending tweets by category.
 - [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI) - https://lehhair.github.io/OpenCodeUI/
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
