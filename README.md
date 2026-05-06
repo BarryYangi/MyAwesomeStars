@@ -109,7 +109,6 @@
 ## Dockerfile 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## EJS 
 
@@ -287,6 +286,7 @@
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [tw93/cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) - 🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行
 - [codrops/RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [bxm0927/canvas-special](https://github.com/bxm0927/canvas-special) - :octocat::alien::star2:超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。
 - [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) - 网易云音乐第三方
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -615,6 +615,7 @@
 
 ## Swift 
 
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A native database client for developers who use one every day.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [luokebi/coder-island](https://github.com/luokebi/coder-island) - A macOS notch bar utility that monitors Claude Code and Codex CLI sessions in real-time. Lives in the Dynamic Island-style notch area.
@@ -636,6 +637,8 @@
 
 ## TypeScript 
 
+- [Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx) - Animated WebGL liquid-metal effect for React buttons and UI components
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [millionco/localterm](https://github.com/millionco/localterm) - A terminal in your browser
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
