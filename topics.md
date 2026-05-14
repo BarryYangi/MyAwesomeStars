@@ -1707,6 +1707,7 @@
 
 ## others 
 
+- [TeamDev-IP/MoBrowser-App-Icon-Maker](https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker) - Generate macOS app icons using AI.
 - [lijigang/ljg-skills](https://github.com/lijigang/ljg-skills) - 
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
