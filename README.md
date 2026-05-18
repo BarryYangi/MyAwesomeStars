@@ -527,7 +527,6 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [codeshold/ddos-dos-tools](https://github.com/codeshold/ddos-dos-tools) - some sort of ddos-tools
 - [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率）
-- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
 ## QML 
@@ -585,6 +584,7 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 
 ## SCSS 
