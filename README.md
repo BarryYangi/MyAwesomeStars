@@ -189,7 +189,6 @@
 ## Handlebars 
 
 - [sunface/new-rusty-book](https://github.com/sunface/new-rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
-- [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 🦄 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。🚀 涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。🔮 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。👑 Let's just beat it !
 
 ## Haskell 
 
@@ -240,6 +239,7 @@
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translator in your command line
 - [cambecc/earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions
 - [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client) - A React app to interactively visualize JavaScript's Event Loop
+- [beatai-org/beatai](https://github.com/beatai-org/beatai) - 🦄 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。🚀 涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。🔮 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。👑 Let's just beat it !
 - [kopiro/siriwave](https://github.com/kopiro/siriwave) - The Apple® Siri wave-form replicated in a JS library.
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
@@ -759,7 +759,7 @@
 - [huozhi/vaso](https://github.com/huozhi/vaso) - Liquid Glass effect for React
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your AI butler that get things done
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your personal AI OS
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
@@ -826,7 +826,7 @@
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [sxzz/telegram-bot-starter](https://github.com/sxzz/telegram-bot-starter) - A starter template for Telegram bots on Serverless, with Vercel, Netlify, Cloudflare, and more support.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
