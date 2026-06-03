@@ -214,6 +214,7 @@
 ## JavaScript 
 
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+- [heptameta/heptabase-cli-skills](https://github.com/heptameta/heptabase-cli-skills) - Agent skills for Heptabase CLI.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket!
@@ -224,7 +225,6 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [vorbei/figma-capture](https://github.com/vorbei/figma-capture) - Chrome extension to capture any webpage into Figma, bypassing CSP
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono).
 - [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -366,7 +366,6 @@
 - [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) - An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a
 - [alibaba-flyai/flyai-skill](https://github.com/alibaba-flyai/flyai-skill) - fly ai agent skill
 - [EryouHao/graker-release](https://github.com/EryouHao/graker-release) - 
-- [heptameta/heptabase-cli-skills](https://github.com/heptameta/heptabase-cli-skills) - Agent skills for Heptabase CLI.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
 - [zanwei/design-dna](https://github.com/zanwei/design-dna) - Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON—tokens, qualitative style, visual effects—then generate matching UI from your content.
@@ -607,7 +606,6 @@
 - [lewislulu/terminal-setup](https://github.com/lewislulu/terminal-setup) - One-script macOS terminal setup: Ghostty + Fish + Starship + Nerd Font + modern CLI tools
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
@@ -647,6 +645,7 @@
 - [farzaa/clicky](https://github.com/farzaa/clicky) - 
 - [BarutSRB/Hiro](https://github.com/BarutSRB/Hiro) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
@@ -696,7 +695,7 @@
 - [benjitaylor/liveline](https://github.com/benjitaylor/liveline) - Real-time animated line chart for React.
 - [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying
 - [livetap/livetap](https://github.com/livetap/livetap) - Push live data streams into your AI coding agent. MQTT, WebSocket, file tailing → expression watchers → Claude Code Channels alerts.
-- [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public) - Collaborator is a place to create with agents.
+- [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [LitoMore/simple-icons-cdn](https://github.com/LitoMore/simple-icons-cdn) - 🎨 Colorable and resizable CDN for Simple Icons
@@ -734,6 +733,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
 - [vm0-ai/vm0](https://github.com/vm0-ai/vm0) - Zero, your trustworthy AI teammate for real work.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
