@@ -499,7 +499,7 @@
 - [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
 - [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
 - [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [justjavac/youre-the-os](https://github.com/justjavac/youre-the-os) - 🎮 在游戏里，你将扮演一台计算机的操作系统，你必须管理进程、内存和 I/O 事件，合理分配资源，一旦进程死亡太多，你就重启了，游戏失败
 - [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -938,7 +938,7 @@
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [Flower-F/vitesse-react](https://github.com/Flower-F/vitesse-react) - Bun + Vite + React Starter Template. Always keep fresh!
 - [Hacker-C/reactease](https://github.com/Hacker-C/reactease) - React + Unocss template starter
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [grubersjoe/react-github-calendar](https://github.com/grubersjoe/react-github-calendar) - React component to display a GitHub contributions calendar
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [mythsman/hexo-douban](https://github.com/mythsman/hexo-douban) - :cd: a Hexo plugin that helps you generate content for Douban books, movies, music, and games.
