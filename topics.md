@@ -280,7 +280,7 @@
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
-- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
+- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser Skill/CLI/MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
@@ -2341,7 +2341,7 @@
 
 ## reverse-engineering 
 
-- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
+- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser Skill/CLI/MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
 
 ## robotics 
 
