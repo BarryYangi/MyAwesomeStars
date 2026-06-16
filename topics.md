@@ -523,6 +523,7 @@
 
 ## chatgpt 
 
+- [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
@@ -939,6 +940,7 @@
 
 ## fastapi 
 
+- [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
@@ -1696,6 +1698,7 @@
 
 ## openai 
 
+- [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [qqqqqf-q/Arkloop](https://github.com/qqqqqf-q/Arkloop) - 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [CommonstackAI/UncommonRoute](https://github.com/CommonstackAI/UncommonRoute) - Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.
@@ -2136,6 +2139,7 @@
 
 ## python 
 
+- [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
