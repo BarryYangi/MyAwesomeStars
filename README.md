@@ -447,6 +447,7 @@
 
 ## Python 
 
+- [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [warpdotdev/oz-skills](https://github.com/warpdotdev/oz-skills) - 
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
@@ -499,7 +500,6 @@
 - [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
 - [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
 - [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [justjavac/youre-the-os](https://github.com/justjavac/youre-the-os) - 🎮 在游戏里，你将扮演一台计算机的操作系统，你必须管理进程、内存和 I/O 事件，合理分配资源，一旦进程死亡太多，你就重启了，游戏失败
 - [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
@@ -591,6 +591,7 @@
 - [Wayoung7/firework-rs](https://github.com/Wayoung7/firework-rs) - A cross-platform ascii-art firework simulator in terminal
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
