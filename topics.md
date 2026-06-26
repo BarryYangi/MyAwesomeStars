@@ -1513,7 +1513,7 @@
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Workspace memory: Turn colab file system into agent memory and cut your token cost up to 95%
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
@@ -1532,7 +1532,7 @@
 
 ## minecraft 
 
-- [XianYuLauncher/XianYuLauncher](https://github.com/XianYuLauncher/XianYuLauncher) - A UI-perfect Minecraft Java Edition launcher | XianYu Launcher
+- [XianYuLauncher/XianYuLauncher](https://github.com/XianYuLauncher/XianYuLauncher) - A modern, feature-rich Minecraft Java Edition launcher with a polished user interface.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 
@@ -1845,7 +1845,7 @@
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) - 让 OpenClaw稳定的连上你的个人微信
 - [miantiao-me/cf-browser-cdp](https://github.com/miantiao-me/cf-browser-cdp) - Connect Cloudflare Browser Rendering via CDP (Chrome DevTools Protocol).
-- [SumeLabs/clawra](https://github.com/SumeLabs/clawra) - Clawra - Openclaw as your companion
+- [sumelabs/clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
 - [supernotes/sn-pro](https://github.com/supernotes/sn-pro) - SN Pro Font Family
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -2765,6 +2765,7 @@
 
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) - A large collection of high-quality React components that you can copy and paste into any project.
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
