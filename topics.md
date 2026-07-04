@@ -38,6 +38,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -253,7 +254,7 @@
 
 - [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and mockups in seconds, directly in your browser
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Showcasing my web dev skills with 3D magic, slick interactions, and cutting-edge design.
+- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [janarosmonaliev/github-globe](https://github.com/janarosmonaliev/github-globe) - The Globe from Github's homepage implemented in ThreeJS with beautiful shading.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -311,7 +312,7 @@
 - [collabs-inc/collab-public](https://github.com/collabs-inc/collab-public) - Collaborator is a place to create with agents.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [CommonstackAI/UncommonRoute](https://github.com/CommonstackAI/UncommonRoute) - Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
@@ -595,6 +596,30 @@
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
+## claude 
+
+- [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [AprilNEA/BYOKEY](https://github.com/AprilNEA/BYOKEY) - Turn AI subscriptions into standard API endpoints. OpenAI & Anthropic compatible gateway — for Amp Code, Cursor, Factory CLI, and more.
+- [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
 ## claude-code 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -610,7 +635,7 @@
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native t
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -974,7 +999,7 @@
 
 - [cdinnison/ray-finance](https://github.com/cdinnison/ray-finance) - An open-source AI financial advisor that learns your situation and gets smarter every conversation.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 
@@ -1460,7 +1485,7 @@
 
 ## machine-learning 
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
 
 ## macos 
@@ -1618,6 +1643,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
+- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [codse/animata](https://github.com/codse/animata) - Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1799,7 +1825,6 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [AnaArsonist/anahoward.me](https://github.com/AnaArsonist/anahoward.me) - 
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [vercel-labs/wterm](https://github.com/vercel-labs/wterm) - A terminal emulator for the web
@@ -1876,7 +1901,6 @@
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) - MCP to connect your LLM with Spotify.
 - [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk) - 
-- [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -2117,6 +2141,7 @@
 
 ## portfolio-website 
 
+- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 
@@ -2176,7 +2201,7 @@
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -2211,7 +2236,7 @@
 
 ## quantitative-finance 
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 
 ## rag 
 
@@ -2245,6 +2270,7 @@
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
+- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [codse/animata](https://github.com/codse/animata) - Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
@@ -2304,7 +2330,7 @@
 - [robbins23/daisyui-admin-dashboard-template](https://github.com/robbins23/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
 - [wireva/template_react_pwa](https://github.com/wireva/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
-- [Flower-F/vitesse-react](https://github.com/Flower-F/vitesse-react) - Bun + Vite + React Starter Template. Always keep fresh!
+- [Flower-F/vitesse-react](https://github.com/Flower-F/vitesse-react) - Pnpm + Vite + React Starter Template. Always keep fresh!
 - [Hacker-C/reactease](https://github.com/Hacker-C/reactease) - React + Unocss template starter
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step 前端手写题，一步步提升 JavaScript 编程水平
@@ -2572,6 +2598,7 @@
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
+- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
@@ -2602,7 +2629,7 @@
 - [robbins23/daisyui-admin-dashboard-template](https://github.com/robbins23/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
 - [wireva/template_react_pwa](https://github.com/wireva/template_react_pwa) - Template for React + Vite + Tailwind + daisyUI + Vite PWA + React Router
 - [pacexy/tailwindcss-variable-colors](https://github.com/pacexy/tailwindcss-variable-colors) - Add dark mode support with just one class
-- [Flower-F/vitesse-react](https://github.com/Flower-F/vitesse-react) - Bun + Vite + React Starter Template. Always keep fresh!
+- [Flower-F/vitesse-react](https://github.com/Flower-F/vitesse-react) - Pnpm + Vite + React Starter Template. Always keep fresh!
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -2715,6 +2742,7 @@
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
 - [vikiboss/60s](https://github.com/vikiboss/60s) - ⏰ 60s API 免费接口。每天 60 秒看世界、奥运奖牌榜、小红书/B站/微博/抖音/知乎热搜、金价、油价、天气、翻译、壁纸、Epic 游戏、二维码、猫眼票房｜一系列 高质量、开源、可靠、全球 CDN 加速 的开放 API 集合，支持 Docker / Deno / Bun / Cloudflare Workers / Node.js 部署
+- [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
