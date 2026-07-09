@@ -411,7 +411,7 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [justfont/The-Write-Right-Font](https://github.com/justfont/The-Write-Right-Font) - 由 justfont 的團隊製作，以 OpenType  實現輸入「常見錯字」即會自動改正功能的開源繁體中文字型，旨在協助所有被生活中各式錯字所困擾的朋友。
-- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs across 48 categories — searchable, community-maintained, with a free JSON API.
+- [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A curated list of free public APIs — searchable, community-maintained, with a free JSON API.
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
@@ -663,7 +663,7 @@
 - [Jakubantalik/img-fx](https://github.com/Jakubantalik/img-fx) - Animated image generation loader and reveal effect for React
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and mockups in seconds, directly in your browser
+- [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
 - [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
 - [vikingmute/better-wechatpay](https://github.com/vikingmute/better-wechatpay) - 现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持
 - [raphaelsalaja/calligraph](https://github.com/raphaelsalaja/calligraph) - Fluid text transitions powered by Motion.
