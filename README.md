@@ -362,6 +362,7 @@
 
 ## Others 
 
+- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [LOWERTOP/Shadowrocket-First](https://github.com/LOWERTOP/Shadowrocket-First) - 小火箭配色与配置
 - [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) - An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a
 - [alibaba-flyai/flyai-skill](https://github.com/alibaba-flyai/flyai-skill) - fly ai agent skill
@@ -459,8 +460,7 @@
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [ARC-MX/sgcc_electricity_new](https://github.com/ARC-MX/sgcc_electricity_new) - HomeAssistant 国家电网电费查询
-- [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Personal memory across agents
 - [mvanhorn/clawdbot-skill-polymarket](https://github.com/mvanhorn/clawdbot-skill-polymarket) - Polymarket prediction markets - check odds, track portfolios, research markets, set alerts, compare markets, and trade. Read-only works instantly. OpenClaw skill.
 - [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills) - 视频中分享的方法论代码参考
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
@@ -474,7 +474,7 @@
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) - MCP to connect your LLM with Spotify.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [l-thoms/YomengScript-Font](https://github.com/l-thoms/YomengScript-Font) - 一款由 Yomogi 字体二次开发的中文字体
 - [ChainBuff/open-sol-bot](https://github.com/ChainBuff/open-sol-bot) - 一个完全开源的 Solana 链上交易机器人，支持跟单交易和自动交易功能。 A fully open-source Solana on-chain trading bot that supports copy trading and automated trading features.
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
@@ -527,7 +527,6 @@
 - [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [chawyehsu/lxgw-wenkai-webfont](https://github.com/chawyehsu/lxgw-wenkai-webfont) - webfont package for the LXGW WenKai typeface
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
@@ -980,6 +979,7 @@
 - [JS-banana/notify-server](https://github.com/JS-banana/notify-server) - 🍰微信消息通知
 - [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 - [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [lete114/API-Interface](https://github.com/lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
 - [LHRUN/paint-board](https://github.com/LHRUN/paint-board) - 🎨  A powerful multi-end drawing board that brings together a lot of creative brushes to experience a whole new range of drawing effects!
 - [StreamerHelper/web-server](https://github.com/StreamerHelper/web-server) - Core backend services for StreamerHelper
