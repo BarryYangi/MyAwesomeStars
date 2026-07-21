@@ -54,6 +54,7 @@
 
 ## C 
 
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 - [breakstring/eInkCalendarOfToxicSoul](https://github.com/breakstring/eInkCalendarOfToxicSoul) - 毒鸡汤墨水屏日历
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
@@ -135,7 +136,6 @@
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [CharlesWiltgen/Axiom](https://github.com/CharlesWiltgen/Axiom) - Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development
 - [yetone/smart-suggestion](https://github.com/yetone/smart-suggestion) - Get AI-powered command suggestions **directly** in your zsh shell.
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync) - 🔄 A simple tool to backup and sync your git repositories
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
@@ -474,7 +474,7 @@
 - [varunneal/spotify-mcp](https://github.com/varunneal/spotify-mcp) - MCP to connect your LLM with Spotify.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [l-thoms/YomengScript-Font](https://github.com/l-thoms/YomengScript-Font) - 一款由 Yomogi 字体二次开发的中文字体
 - [ChainBuff/open-sol-bot](https://github.com/ChainBuff/open-sol-bot) - 一个完全开源的 Solana 链上交易机器人，支持跟单交易和自动交易功能。 A fully open-source Solana on-chain trading bot that supports copy trading and automated trading features.
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
@@ -663,7 +663,6 @@
 - [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
 - [Jakubantalik/img-fx](https://github.com/Jakubantalik/img-fx) - Animated image generation loader and reveal effect for React
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
 - [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
 - [vikingmute/better-wechatpay](https://github.com/vikingmute/better-wechatpay) - 现代化的微信支付 Node.js SDK - ESM、TypeScript、全支付方式支持
@@ -798,6 +797,7 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [codse/animata](https://github.com/codse/animata) - Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
@@ -916,7 +916,7 @@
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [KryptXBSA/t3-twitter-clone](https://github.com/KryptXBSA/t3-twitter-clone) - Twitter clone built with T3 Stack + NextAuth + Supabase + Prisma
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [hanbings/antares](https://github.com/hanbings/antares) - 😶‍🌫️ Antares - 基于 Cloudflare Workers、Cloudflare KV 和 Cloudflare R2 的随机图片 API 服务端
 - [qazxcdswe123/search-obsidian-in-google](https://github.com/qazxcdswe123/search-obsidian-in-google) - Search obsidian notes in google.
