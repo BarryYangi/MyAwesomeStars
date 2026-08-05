@@ -310,6 +310,7 @@
 
 ## ai 
 
+- [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [qqqqqf-q/Arkloop](https://github.com/qqqqqf-q/Arkloop) - 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
@@ -363,6 +364,7 @@
 
 ## ai-agents 
 
+- [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
 - [luokebi/coder-island](https://github.com/luokebi/coder-island) - A macOS notch bar utility that monitors Claude Code and Codex CLI sessions in real-time. Lives in the Dynamic Island-style notch area.
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions
@@ -1319,7 +1321,7 @@
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) - A smooth 3D tilt javascript library.
@@ -1817,7 +1819,6 @@
 
 ## others 
 
-- [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 - [lochie/torph](https://github.com/lochie/torph) - Dependency-free animated text component.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
@@ -2607,7 +2608,7 @@
 - [intentui/intentui](https://github.com/intentui/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [ibelick/background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
-- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
@@ -2636,7 +2637,7 @@
 - [ibelick/background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -2831,6 +2832,7 @@
 
 ## ui 
 
+- [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [xxtomm/spell-ui](https://github.com/xxtomm/spell-ui) - A large collection of high-quality React components that you can copy and paste into any project.
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
