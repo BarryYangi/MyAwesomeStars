@@ -846,7 +846,7 @@
 ## design 
 
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
-- [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
+- [Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries) - Collection of effects for React: Border beam, Liquid Gooey
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
