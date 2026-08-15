@@ -271,7 +271,7 @@
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
@@ -375,7 +375,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
@@ -655,7 +655,7 @@
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [vm0-ai/vm0](https://github.com/vm0-ai/vm0) - Zero, your trustworthy AI teammate for real work.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -681,7 +681,7 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -863,7 +863,7 @@
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 13 AI tools, with iPhone & Apple Watch companions
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot) - An AI agent for teams, communities, and multi-user environments.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
@@ -1529,7 +1529,7 @@
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
@@ -2704,7 +2704,7 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Wayoung7/firework-rs](https://github.com/Wayoung7/firework-rs) - A cross-platform ascii-art firework simulator in terminal
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
@@ -2730,7 +2730,7 @@
 
 ## tui 
 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
