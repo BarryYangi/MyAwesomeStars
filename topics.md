@@ -2110,7 +2110,7 @@
 - [cursor/cursor](https://github.com/cursor/cursor) - 
 - [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 - [zkeq/PaoLu](https://github.com/zkeq/PaoLu) - 跑路专用
-- [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 综合型hexo主题：博客+知识库+专栏+笔记，内置海量的标签组件和动态数据组件。
+- [xaoxuu/hexo-theme-stellar](https://github.com/xaoxuu/hexo-theme-stellar) - 基于 Hexo 的全能个人知识库，开箱即用，内置海量标签和动态数据组件。可用于个人博客、项目文档、知识库、专栏、笔记等。
 - [hsxyhao/gridea-theme-next](https://github.com/hsxyhao/gridea-theme-next) - Gridea NexT主题，搬hexo-next-theme
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。全面拥抱AI。敏感肌也能用。
 - [wxlvip/Interviewer](https://github.com/wxlvip/Interviewer) - 
