@@ -607,7 +607,7 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
