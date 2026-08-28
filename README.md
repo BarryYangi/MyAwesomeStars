@@ -218,6 +218,7 @@
 - [lixiaolin94/skills](https://github.com/lixiaolin94/skills) - Collection of AI agent skills for Claude Code
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 - [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
+- [zanwei/design-dna](https://github.com/zanwei/design-dna) - Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON—tokens, qualitative style, visual effects—then generate matching UI from your content.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [vorbei/figma-capture](https://github.com/vorbei/figma-capture) - Chrome extension to capture any webpage into Figma, bypassing CSP
@@ -367,7 +368,6 @@
 - [EryouHao/graker-release](https://github.com/EryouHao/graker-release) - 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [dominikmartn/nothing-design-skill](https://github.com/dominikmartn/nothing-design-skill) - A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.
-- [zanwei/design-dna](https://github.com/zanwei/design-dna) - Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON—tokens, qualitative style, visual effects—then generate matching UI from your content.
 - [olelehmann1337/autoresearch-skill](https://github.com/olelehmann1337/autoresearch-skill) - 
 - [greensock/gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 - [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.
