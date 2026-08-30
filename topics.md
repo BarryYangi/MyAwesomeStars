@@ -1912,7 +1912,7 @@
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) - 让 OpenClaw稳定的连上你的个人微信
 - [miantiao-me/cf-browser-cdp](https://github.com/miantiao-me/cf-browser-cdp) - Connect Cloudflare Browser Rendering via CDP (Chrome DevTools Protocol).
 - [sumelabs/clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
@@ -1964,7 +1964,7 @@
 - [steren/rtx-on](https://github.com/steren/rtx-on) - Drop the box shadow, use ray tracing on your web pages
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [chaozwn/astronvim_user](https://github.com/chaozwn/astronvim_user) - astronvim_config
-- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [omacom/omakub](https://github.com/omacom/omakub) - Opinionated Ubuntu Setup
 - [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [highcharts/highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
