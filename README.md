@@ -107,7 +107,7 @@
 
 ## Dart 
 
-- [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
+- [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
 
 ## Dockerfile 
 
@@ -596,7 +596,7 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。边录边传0落盘
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 
 ## SCSS 
@@ -740,7 +740,7 @@
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser Skill/CLI/MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
-- [vm0-ai/okou](https://github.com/vm0-ai/okou) - Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
+- [okou-ai/okou](https://github.com/okou-ai/okou) - Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
