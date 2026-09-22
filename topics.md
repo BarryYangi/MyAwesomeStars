@@ -1921,7 +1921,7 @@
 - [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
 - [ninehills/skills](https://github.com/ninehills/skills) - My LLM skills
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) - 让 OpenClaw稳定的连上你的个人微信
