@@ -712,7 +712,7 @@
 - [jakemor/kanna](https://github.com/jakemor/kanna) - A beautiful web-based UI for Claude Code & Codex
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI) - https://lehhair.github.io/OpenCodeUI/
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
