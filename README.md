@@ -722,7 +722,7 @@
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
-- [vercel/chat](https://github.com/vercel/chat) - A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord, and more.
+- [vercel/chat](https://github.com/vercel/chat) - Universal chat layer for building bots and agents.
 - [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
 - [erictli/scratch](https://github.com/erictli/scratch) - A minimalist, offline-first markdown note-taking app
@@ -735,7 +735,7 @@
 - [miantiao-me/cf-browser-cdp](https://github.com/miantiao-me/cf-browser-cdp) - Connect Cloudflare Browser Rendering via CDP (Chrome DevTools Protocol).
 - [sumelabs/clawra](https://github.com/sumelabs/clawra) - Clawra - Openclaw as your companion
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [ibelick/webclaw](https://github.com/ibelick/webclaw) - Fast web client for OpenClaw
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse — api native browser Skill/CLI/MCP/SDK for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally.
@@ -817,7 +817,7 @@
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [rudrodip/shadcn-date-time-picker](https://github.com/rudrodip/shadcn-date-time-picker) - ShadCN Date Time Picker
 - [JaleelB/metawizard](https://github.com/JaleelB/metawizard) - An open-source metadata builder tool for creating metadata and metadata file conventions for Next.js 13+ apps.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
