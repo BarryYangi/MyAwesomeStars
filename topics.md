@@ -260,7 +260,7 @@
 ## 3d 
 
 - [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [janarosmonaliev/github-globe](https://github.com/janarosmonaliev/github-globe) - The Globe from Github's homepage implemented in ThreeJS with beautiful shading.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -806,7 +806,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
+- [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [underpig1/octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows :rocket: Available on the Microsoft Store
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
@@ -1230,7 +1230,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
-- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
+- [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
@@ -1348,7 +1348,7 @@
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -1372,7 +1372,7 @@
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
-- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
+- [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
@@ -2027,7 +2027,7 @@
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
-- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
@@ -2353,7 +2353,7 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
@@ -2379,7 +2379,7 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
+- [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -2459,7 +2459,7 @@
 ## reactjs 
 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [prabhuignoto/react-visual-grid](https://github.com/prabhuignoto/react-visual-grid) - 🪟 Image Grid / Masonry Layout for React
@@ -2669,7 +2669,7 @@
 
 ## tailwind 
 
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [irsyadadl/intentui](https://github.com/irsyadadl/intentui) - Intent UI is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [ibelick/background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
@@ -2687,7 +2687,7 @@
 - [unvalley/ephe](https://github.com/unvalley/ephe) - An Ephemeral Markdown Paper. Less but handy features for plain Markdown lovers.
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 - [kvnxiao/tauri-nextjs-template](https://github.com/kvnxiao/tauri-nextjs-template) - A Tauri 2.0 + Next.js (SSG) template, with TailwindCSS, opinionated linting, and GitHub Actions preconfigured
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [Naresh-Khatri/3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) - Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
@@ -2853,7 +2853,7 @@
 - [sxzz/telegram-bot-starter](https://github.com/sxzz/telegram-bot-starter) - A starter template for Telegram bots on Serverless, with Vercel, Netlify, Cloudflare, and more support.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
-- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
+- [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
@@ -3008,11 +3008,11 @@
 ## web 
 
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [jj811208/watching-you](https://github.com/jj811208/watching-you) - watching-you is a javascript library for building animations that watch anything on DOM 👀.
-- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
+- [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder) - html5 js 录音 mp3 wav ogg webm amr g711a g711u 格式，支持pc和Android、iOS部分Web浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
