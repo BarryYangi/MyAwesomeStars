@@ -209,6 +209,7 @@
 ## JavaScript 
 
 - [LewisWJackson/tradingview-mcp-jackson](https://github.com/LewisWJackson/tradingview-mcp-jackson) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
+- [danielwh2/cuelume](https://github.com/danielwh2/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [heptameta/heptabase-cli-skills](https://github.com/heptameta/heptabase-cli-skills) - Agent skills for Heptabase CLI.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
@@ -663,11 +664,11 @@
 
 ## TypeScript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [kansoku-trade/kansoku](https://github.com/kansoku-trade/kansoku) - AI Stock Partner on Your Mac – Local Market Information, Multi-timeframe K-line, AI Intraday Comments and Follow-up Analysis
 - [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) - Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
 - [lochie/torph](https://github.com/lochie/torph) - Dependency-free animated text component.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [danielwh2/cuelume](https://github.com/danielwh2/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute,
 - [Jakubantalik/img-fx](https://github.com/Jakubantalik/img-fx) - Animated image generation loader and reveal effect for React
 - [jal-co/shieldcn](https://github.com/jal-co/shieldcn) - Beautiful README badges, inspired by shields.io and styled like shadcn/ui.
 - [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) - Create professional demos and 3D mockups in seconds, directly in your browser
@@ -715,7 +716,6 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI) - https://lehhair.github.io/OpenCodeUI/
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -1001,6 +1001,7 @@
 
 ## Vue 
 
+- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [Tucsky/aggr](https://github.com/Tucsky/aggr) - Cryptocurrency trades aggregator
 - [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
