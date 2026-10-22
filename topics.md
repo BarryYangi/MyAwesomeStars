@@ -2146,7 +2146,7 @@
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [firemakergk/aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。
 - [firemakergk/aquar-build-helper](https://github.com/firemakergk/aquar-build-helper) - Aquar系统搭建指南
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [wf2311/wakatime-sync](https://github.com/wf2311/wakatime-sync) - wakatime 数据同步展示工具
 - [velor2012/anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - Anonymous Chat Room Power By Livekit And Next.js
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
