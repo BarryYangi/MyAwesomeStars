@@ -288,6 +288,7 @@
 
 ## agent-skills 
 
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) - Cinematic launch films and motion design from code, directed by your coding agent.
 - [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -437,7 +438,7 @@
 
 ## analytics 
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 
@@ -672,6 +673,7 @@
 
 ## claude-code 
 
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) - Cinematic launch films and motion design from code, directed by your coding agent.
 - [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
 - [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
@@ -1479,6 +1481,7 @@
 
 ## library 
 
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
@@ -1488,6 +1491,7 @@
 
 ## linux 
 
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [velopack/velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross-platform desktop applications
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
@@ -1576,6 +1580,7 @@
 
 ## macos 
 
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [BarryYangi/chezmoi-dotfiles](https://github.com/BarryYangi/chezmoi-dotfiles) - My personal dotfiles, managed with chezmoi
 - [velopack/velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross-platform desktop applications
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -1592,7 +1597,7 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-- [tw93/Kaku](https://github.com/tw93/Kaku) - An AI-friendly Mac terminal with sensible defaults, ready out of the box.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
@@ -1634,6 +1639,7 @@
 
 ## mcp 
 
+- [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
@@ -2058,7 +2064,7 @@
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 - [zhangyile/telegram-wechat](https://github.com/zhangyile/telegram-wechat) - 使用 telegram 收发微信
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
@@ -2542,7 +2548,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [tw93/Kaku](https://github.com/tw93/Kaku) - An AI-friendly Mac terminal with sensible defaults, ready out of the box.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -2655,7 +2661,7 @@
 ## statistics 
 
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## storybook 
@@ -2794,7 +2800,7 @@
 - [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) - Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
-- [tw93/Kaku](https://github.com/tw93/Kaku) - An AI-friendly Mac terminal with sensible defaults, ready out of the box.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Wayoung7/firework-rs](https://github.com/Wayoung7/firework-rs) - A cross-platform ascii-art firework simulator in terminal
