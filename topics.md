@@ -1428,7 +1428,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
@@ -1775,6 +1775,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -2474,6 +2475,7 @@
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [SevenOutman/aplayer-react](https://github.com/SevenOutman/aplayer-react) - The missing APlayer for your React applications
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
@@ -2684,6 +2686,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [Polaris]
 
@@ -2920,6 +2923,7 @@
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -3029,6 +3033,7 @@
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [onu-ui/onu-ui](https://github.com/onu-ui/onu-ui) - Opinionated and lightweight UnoCSS ui library.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
