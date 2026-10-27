@@ -34,7 +34,6 @@
 - [PHP](#php)
 - [Python](#python)
 - [QML](#qml)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -177,6 +176,7 @@
 - [cdfmlr/muvtuber](https://github.com/cdfmlr/muvtuber) - Makes your AI vtuber
 - [azouaoui-med/css-pro-layout](https://github.com/azouaoui-med/css-pro-layout) - CSS library for building responsive and customizable layouts
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [guangzhengli/hugo-theme-ladder](https://github.com/guangzhengli/hugo-theme-ladder) - A fast, clean Hugo theme | 一个简单而优雅的 hugo 主题
@@ -199,7 +199,7 @@
 
 - [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 - [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) - 一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软件以及日常桌面使用。
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [pingfangushi/screw](https://github.com/pingfangushi/screw) - 简洁好用的数据库表结构文档生成器
 - [wf2311/wakatime-sync](https://github.com/wf2311/wakatime-sync) - wakatime 数据同步展示工具
@@ -288,7 +288,6 @@
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [velor2012/anonymous-chat-room](https://github.com/velor2012/anonymous-chat-room) - Anonymous Chat Room Power By Livekit And Next.js
@@ -379,6 +378,7 @@
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [cryptorife/aggr-templates](https://github.com/cryptorife/aggr-templates) - templates for aggr.trade
 - [thought7878/chanlun_notes](https://github.com/thought7878/chanlun_notes) - 缠论笔记
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [yinbaiyuan/Zigbee32Bridge](https://github.com/yinbaiyuan/Zigbee32Bridge) - 
@@ -413,7 +413,6 @@
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [docsifyjs/awesome-docsify](https://github.com/docsifyjs/awesome-docsify) - 💖 A curated list of awesome things related to docsify
 - [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
@@ -443,7 +442,7 @@
 - [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) - Cinematic launch films and motion design from code, directed by your coding agent.
 - [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) - Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
 - [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [Soju06/codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
@@ -526,10 +525,10 @@
 - [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 - [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -550,10 +549,6 @@
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [Arch-Hyprland/Hyprlandwm](https://github.com/Arch-Hyprland/Hyprlandwm) - 
-
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Ruby 
 
@@ -658,6 +653,7 @@
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - An application that can dock any window to the edge of the screen.
 - [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
@@ -736,7 +732,7 @@
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [freestylefly/openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) - 让 OpenClaw稳定的连上你的个人微信
 - [hiaaryan/sileo](https://github.com/hiaaryan/sileo) - An opinionated, physics-based toast component for React.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [miantiao-me/cf-browser-cdp](https://github.com/miantiao-me/cf-browser-cdp) - Connect Cloudflare Browser Rendering via CDP (Chrome DevTools Protocol).
@@ -769,7 +765,6 @@
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
-- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [verygoodplugins/mcp-toggl](https://github.com/verygoodplugins/mcp-toggl) - MCP server for Toggl Track integration with intelligent caching and reporting tools
@@ -967,6 +962,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [SevenOutman/aplayer-react](https://github.com/SevenOutman/aplayer-react) - The missing APlayer for your React applications
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium. Works with React and any web framework.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
