@@ -20,7 +20,6 @@
 - [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
-- [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -148,6 +147,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -246,6 +246,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -343,7 +344,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [CommonstackAI/UncommonRoute](https://github.com/CommonstackAI/UncommonRoute) - Automatic LLM router — 82% cost savings, 79.4% accuracy, 93.4% pass rate. Drop-in OpenAI proxy.
 - [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) - Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto
 - [vercel/chat](https://github.com/vercel/chat) - Universal chat layer for building bots and agents.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
@@ -369,7 +370,6 @@
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [origin-brain/beat-ai](https://github.com/origin-brain/beat-ai) - 不玩晦涩不搞少数派的 AI 入门圣经，从学生到工程师都能轻松掌握。涵盖神经网络到大模型、顶层设计到微观原理、工程实现到算法基础。 学完后，大家能彻底看懂为什么下一 token 预测这个看似不起眼的能力可以改变世界，也能发现原来 AI 并没有想象中那么神秘、那么高不可攀。 Let's just beat it !
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All-in-one ChatGPT CLI - Build custom AI tools like GitHub Actions. Features AI commit, natural language commands, translation, and gitmoji. Create powerful CLI tools in seconds, bridging natural la
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
@@ -487,10 +487,6 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [cgoldsby/LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar that responds to text field interactions
-
-## ansible 
-
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 
 ## api 
 
@@ -631,7 +627,6 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
 - [linyuxuanlin/Auto-i18n](https://github.com/linyuxuanlin/Auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
@@ -647,7 +642,6 @@
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 
@@ -693,12 +687,11 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - 免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -749,6 +742,7 @@
 ## claude-skills 
 
 - [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) - Cinematic launch films and motion design from code, directed by your coding agent.
+- [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [zanwei/design-dna](https://github.com/zanwei/design-dna) - Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON—tokens, qualitative style, visual effects—then generate matching UI from your content.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
@@ -811,7 +805,7 @@
 ## command-line 
 
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [afc163/fanyi](https://github.com/afc163/fanyi) - A 🇨🇳 and 🇺🇸 translator in your command line
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -918,7 +912,7 @@
 
 ## database 
 
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## deep-learning 
@@ -1331,7 +1325,7 @@
 
 ## home-assistant 
 
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 
 ## homebrew 
@@ -1389,6 +1383,7 @@
 
 ## ios 
 
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
@@ -1543,6 +1538,7 @@
 - [amontlabs/lcu](https://github.com/amontlabs/lcu) - Codex computer use, decoupled from the app, for usage inside any harness.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [velopack/velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross-platform desktop applications
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -1574,7 +1570,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [RefoundAI/lenny-skills](https://github.com/RefoundAI/lenny-skills) - 86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.
 - [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono).
@@ -1619,7 +1615,7 @@
 ## mac 
 
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
@@ -1635,7 +1631,7 @@
 - [BarryYangi/chezmoi-dotfiles](https://github.com/BarryYangi/chezmoi-dotfiles) - My personal dotfiles, managed with chezmoi
 - [velopack/velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross-platform desktop applications
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -1648,10 +1644,10 @@
 - [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - Powerful MacOS Launcher
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, AI-friendly Mac terminal.
 - [rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills) - Skills to automate app store deployed and everything related to it using the asc cli
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 - [mattt/iMCP](https://github.com/mattt/iMCP) - A macOS app that provides an MCP server to your Messages, Contacts, Reminders and more
@@ -1701,7 +1697,7 @@
 - [livetap/livetap](https://github.com/livetap/livetap) - Push live data streams into your AI coding agent. MQTT, WebSocket, file tailing → expression watchers → Claude Code Channels alerts.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -1725,6 +1721,18 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 
+## mcp-server 
+
+- [Mistgate/mistgate](https://github.com/Mistgate/mistgate) - Beta. Self-hosted panel for running a VPN for others: family, friends, a community or a small team. Hysteria2, VLESS REALITY and AmneziaWG, one link per person. Add servers from the browser over SSH; 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) - Unbrowse - Reverse engineer any website so that your agents can access its APIs directly
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
+- [verygoodplugins/mcp-toggl](https://github.com/verygoodplugins/mcp-toggl) - MCP server for Toggl Track integration with intelligent caching and reporting tools
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## minecraft 
 
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
@@ -1739,7 +1747,7 @@
 
 ## mongodb 
 
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [mogland/core](https://github.com/mogland/core) - 🐱 /mɑːɡ/ A flexible, modular CMS Blog System. | 一款弹性的模块化 CMS 博客系统
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
@@ -1764,7 +1772,7 @@
 
 ## mysql 
 
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1959,6 +1967,7 @@
 
 ## others 
 
+- [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI) - Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI
 - [LewisWJackson/tradingview-mcp-jackson](https://github.com/LewisWJackson/tradingview-mcp-jackson) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 - [liseami/CCBaga](https://github.com/liseami/CCBaga) - 
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
@@ -2081,7 +2090,6 @@
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [xfgryujk/blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
 - [lramos33/big-calendar](https://github.com/lramos33/big-calendar) - This project provides a modern, responsive interface for managing events and schedules with multiple viewing options.
-- [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 - [muzihuaner/LiveBG](https://github.com/muzihuaner/LiveBG) - OBS直播背景装饰页
 - [Lakr233/FlowDown](https://github.com/Lakr233/FlowDown) - https://flowdown.ai/
 - [hackrdotsh/ghostty-shaders](https://github.com/hackrdotsh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
@@ -2212,7 +2220,6 @@
 - [israelmitolu/react-music-player](https://github.com/israelmitolu/react-music-player) - 
 - [lxfater/LLMR-NLUP](https://github.com/lxfater/LLMR-NLUP) - A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
 - [GC-ZF/Comment-Backups](https://github.com/GC-ZF/Comment-Backups) - twikoo数据备份
 - [SociallyIneptWeeb/LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI) - Your Personal Multilingual AI Translator
@@ -2307,7 +2314,7 @@
 
 ## postgresql 
 
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -2592,6 +2599,7 @@
 
 - [MMFoundation/WallpaperMachine](https://github.com/MMFoundation/WallpaperMachine) - Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
 - [vyfor/rattles](https://github.com/vyfor/rattles) - 🪇 Minimal terminal spinners/throbbers for Rust
@@ -2601,7 +2609,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, AI-friendly Mac terminal.
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [0xle0ne/nextauri](https://github.com/0xle0ne/nextauri) - A Next.js + Tauri template, with minimal best practice setup and weekly updates!
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -2668,7 +2676,7 @@
 
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
 ## sketch 
@@ -2710,7 +2718,7 @@
 
 ## sql 
 
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [Rohithgilla12/data-peek](https://github.com/Rohithgilla12/data-peek) - A minimal, fast, database client desktop application. Built for developers who want to quickly peek at their data without the bloat.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
@@ -2718,7 +2726,7 @@
 
 - [Mistgate/mistgate](https://github.com/Mistgate/mistgate) - Beta. Self-hosted panel for running a VPN for others: family, friends, a community or a small team. Hysteria2, VLESS REALITY and AmneziaWG, one link per person. Add servers from the browser over SSH; 
 - [BarryYangi/vibetime](https://github.com/BarryYangi/vibetime) - Local-first time tracking for your coding agent.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
@@ -2760,11 +2768,11 @@
 
 - [MMFoundation/WallpaperMachine](https://github.com/MMFoundation/WallpaperMachine) - Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) - Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for 30+ AI coding tools, with iPhone & Apple Watch companions
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [XiCheng148/Dockit](https://github.com/XiCheng148/Dockit) - An application that can dock any window to the edge of the screen.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI
@@ -2774,10 +2782,9 @@
 
 - [MMFoundation/WallpaperMachine](https://github.com/MMFoundation/WallpaperMachine) - Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+.
 - [duongductrong/Snapzy](https://github.com/duongductrong/Snapzy) - An open-source native macOS screenshot and screen recording app. A CleanShot X alternative.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [luokebi/coder-island](https://github.com/luokebi/coder-island) - A macOS notch bar utility that monitors Claude Code and Codex CLI sessions in real-time. Lives in the Dynamic Island-style notch area.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs) - A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [mazzzystar/Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
 - [leetcode-mafia/cheetah](https://github.com/leetcode-mafia/cheetah) - Mac app for crushing tech interviews with AI
@@ -2876,7 +2883,7 @@
 - [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) - Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation
-- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, AI-friendly Mac terminal.
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Wayoung7/firework-rs](https://github.com/Wayoung7/firework-rs) - A cross-platform ascii-art firework simulator in terminal
@@ -3047,6 +3054,7 @@
 
 ## video 
 
+- [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) - 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.
 - [DistroAV/DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -3080,6 +3088,13 @@
 ## vpn 
 
 - [Mistgate/mistgate](https://github.com/Mistgate/mistgate) - Beta. Self-hosted panel for running a VPN for others: family, friends, a community or a small team. Hysteria2, VLESS REALITY and AmneziaWG, one link per person. Add servers from the browser over SSH; 
+
+## vscode 
+
+- [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
+- [Avimitin/nvim](https://github.com/Avimitin/nvim) - Handy, maintainable, multi-languages supported neovim configuration.
+- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 
 ## vue 
 
@@ -3176,7 +3191,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [bostrot/wslmanager](https://github.com/bostrot/wslmanager) - GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
