@@ -49,7 +49,7 @@
 
 ## Astro 
 
-- [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) - Astro v6 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI
+- [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) - Astro v7 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 
@@ -583,6 +583,7 @@
 - [AprilNEA/BYOKEY](https://github.com/AprilNEA/BYOKEY) - Turn AI subscriptions into standard API endpoints. OpenAI & Anthropic compatible gateway — for Amp Code, Cursor, Factory CLI, and more.
 - [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) - A coding agent that evolves its own source, in public — 200 lines of Rust on day one, every commit since agent-written and tests-gated.
 - [Xuanwo/xurl](https://github.com/Xuanwo/xurl) - xURL: Client for AI Agents URLs
+- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [okx/onchainos-skills](https://github.com/okx/onchainos-skills) - Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -594,6 +595,7 @@
 - [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, AI-friendly Mac terminal.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [waditu/czsc](https://github.com/waditu/czsc) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -602,7 +604,7 @@
 - [Wayoung7/firework-rs](https://github.com/Wayoung7/firework-rs) - A cross-platform ascii-art firework simulator in terminal
 - [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [triwinds/ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
@@ -779,7 +781,6 @@
 - [cyl19970726/poly-sdk](https://github.com/cyl19970726/poly-sdk) - 
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [djyde/ccmate](https://github.com/djyde/ccmate) - Configure your Claude Code without pain
-- [limecloud/lime](https://github.com/limecloud/lime) - Full-stack AI agent for coding, files, terminals, tools, research, content, multimodal work, and multi-agent workflows.
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [verygoodplugins/mcp-toggl](https://github.com/verygoodplugins/mcp-toggl) - MCP server for Toggl Track integration with intelligent caching and reporting tools
@@ -835,7 +836,7 @@
 - [cosscom/ui](https://github.com/cosscom/ui) - coss.com/ui is the official design system of Cal.com
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers an
 - [rudrodip/shadcn-date-time-picker](https://github.com/rudrodip/shadcn-date-time-picker) - ShadCN Date Time Picker
 - [JaleelB/metawizard](https://github.com/JaleelB/metawizard) - An open-source metadata builder tool for creating metadata and metadata file conventions for Next.js 13+ apps.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
@@ -889,7 +890,6 @@
 - [CaliCastle/cali-fm](https://github.com/CaliCastle/cali-fm) - One-click deploy your podcast website via RSS
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [nuxt-content/docus](https://github.com/nuxt-content/docus) - Write beautiful documentations with Nuxt and Markdown.
-- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 - [antfu-collective/vitesse-lite](https://github.com/antfu-collective/vitesse-lite) - ⛺️ Lightweight version of Vitesse
 - [antfu/reactivue](https://github.com/antfu/reactivue) - 🙊 Use Vue Composition API in React components
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All-in-one ChatGPT CLI - Build custom AI tools like GitHub Actions. Features AI commit, natural language commands, translation, and gitmoji. Create powerful CLI tools in seconds, bridging natural la
@@ -1015,12 +1015,12 @@
 
 ## Vue 
 
-- [luckjiawei/frpc-desktop](https://github.com/luckjiawei/frpc-desktop) - Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!
 - [Tucsky/aggr](https://github.com/Tucsky/aggr) - Cryptocurrency trades aggregator
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [Otto-J/sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) - sync obsidian notes to xlog.app
 - [CatsJuice/svg-drawing](https://github.com/CatsJuice/svg-drawing) - A canvas for easy sketching and replay, exportable in SVG format.
 - [oku-ui/primitives](https://github.com/oku-ui/primitives) - Vue Radix UI Primitives 1:1 . Components, icons, colors, and templates for building high-quality, accessible UI.
+- [antfu/vitesse-nuxt](https://github.com/antfu/vitesse-nuxt) - Vitesse for Nuxt 4 🏔💚⚡️
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
