@@ -51,7 +51,6 @@
 
 - [0xdres/astro-devosfera](https://github.com/0xdres/astro-devosfera) - Astro v7 theme built on AstroPaper. global search, image galleries with lightbox, custom typography, cursor glow effects, and a modern UI
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 
 ## C 
 
@@ -876,6 +875,7 @@
 - [ocavue/prosemirror-virtual-cursor](https://github.com/ocavue/prosemirror-virtual-cursor) - 
 - [alexmarqs/spotify-now-playing-svg](https://github.com/alexmarqs/spotify-now-playing-svg) - 🎵 Spotify Now Playing SVG Generator using Vercel Serverless API
 - [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [toeverything/blocksuite](https://github.com/toeverything/blocksuite) - 🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [toolkit-for-ynab/toolkit-for-ynab](https://github.com/toolkit-for-ynab/toolkit-for-ynab) - A general purpose YNAB enhancing browser extension for Chrome and Firefox. Have it your way!
